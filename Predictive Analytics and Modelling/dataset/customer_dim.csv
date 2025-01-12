@@ -1,0 +1,600 @@
+customer_id,cust_name,cust_email,cust_phone,cust_active,cust_district,cust_postcode,cust_city,cust_country
+1,"MARY SMITH",MARY.SMITH@sains_dvd_rentalcustomer.org,28303384290,1,Nagasaki,35200,Sasebo,Japan
+2,"PATRICIA JOHNSON",PATRICIA.JOHNSON@sains_dvd_rentalcustomer.org,838635286649,1,California,17886,"San Bernardino","United States"
+3,"LINDA WILLIAMS",LINDA.WILLIAMS@sains_dvd_rentalcustomer.org,448477190408,1,Attika,83579,Athenai,Greece
+4,"BARBARA JONES",BARBARA.JONES@sains_dvd_rentalcustomer.org,705814003527,1,Mandalay,53561,Myingyan,Myanmar
+5,"ELIZABETH BROWN",ELIZABETH.BROWN@sains_dvd_rentalcustomer.org,10655648674,1,Nantou,42399,Nantou,Taiwan
+6,"JENNIFER DAVIS",JENNIFER.DAVIS@sains_dvd_rentalcustomer.org,860452626434,1,Texas,18743,Laredo,"United States"
+7,"MARIA MILLER",MARIA.MILLER@sains_dvd_rentalcustomer.org,716571220373,1,"Central Serbia",93896,Kragujevac,Yugoslavia
+8,"SUSAN WILSON",SUSAN.WILSON@sains_dvd_rentalcustomer.org,657282285970,1,Hamilton,77948,Hamilton,"New Zealand"
+9,"MARGARET MOORE",MARGARET.MOORE@sains_dvd_rentalcustomer.org,380657522649,1,Masqat,45844,Masqat,Oman
+10,"DOROTHY TAYLOR",DOROTHY.TAYLOR@sains_dvd_rentalcustomer.org,648856936185,1,Esfahan,53628,Esfahan,Iran
+11,"LISA ANDERSON",LISA.ANDERSON@sains_dvd_rentalcustomer.org,635297277345,1,Kanagawa,1027,Sagamihara,Japan
+12,"NANCY THOMAS",NANCY.THOMAS@sains_dvd_rentalcustomer.org,465887807014,1,Haryana,10672,"Yamuna Nagar",India
+13,"KAREN JACKSON",KAREN.JACKSON@sains_dvd_rentalcustomer.org,695479687538,1,Osmaniye,29610,Osmaniye,Turkey
+14,"BETTY WHITE",BETTY.WHITE@sains_dvd_rentalcustomer.org,517338314235,1,California,16266,"Citrus Heights","United States"
+15,"HELEN HARRIS",HELEN.HARRIS@sains_dvd_rentalcustomer.org,990911107354,1,"Madhya Pradesh",72878,Bhopal,India
+16,"SANDRA MARTIN",SANDRA.MARTIN@sains_dvd_rentalcustomer.org,949312333307,0,England,54308,Southend-on-Sea,"United Kingdom"
+17,"DONNA THOMPSON",DONNA.THOMPSON@sains_dvd_rentalcustomer.org,407752414682,1,Kalmykia,81766,Elista,"Russian Federation"
+18,"CAROL GARCIA",CAROL.GARCIA@sains_dvd_rentalcustomer.org,747791594069,1,Kaduna,43331,Kaduna,Nigeria
+19,"RUTH MARTINEZ",RUTH.MARTINEZ@sains_dvd_rentalcustomer.org,272572357893,1,"Northern Cape",72192,Kimberley,"South Africa"
+20,"SHARON ROBINSON",SHARON.ROBINSON@sains_dvd_rentalcustomer.org,144453869132,1,"Nothwest Border Prov",21954,Mardan,Pakistan
+21,"MICHELLE CLARK",MICHELLE.CLARK@sains_dvd_rentalcustomer.org,892775750063,1,Dhaka,34418,Tangail,Bangladesh
+22,"LAURA RODRIGUEZ",LAURA.RODRIGUEZ@sains_dvd_rentalcustomer.org,161968374323,1,Rabat-Sal-Zammour-Z,37551,Sal,Morocco
+23,"SARAH LEWIS",SARAH.LEWIS@sains_dvd_rentalcustomer.org,902731229323,1,Liepaja,7716,Liepaja,Latvia
+24,"KIMBERLY LEE",KIMBERLY.LEE@sains_dvd_rentalcustomer.org,934730187245,1,Crdoba,99865,Crdoba,Argentina
+25,"DEBORAH WALKER",DEBORAH.WALKER@sains_dvd_rentalcustomer.org,196495945706,1,Sind,99780,Shikarpur,Pakistan
+26,"JESSICA HALL",JESSICA.HALL@sains_dvd_rentalcustomer.org,998009777982,1,,58327,"Citt del Vaticano","Holy See (Vatican City State)"
+27,"SHIRLEY ALLEN",SHIRLEY.ALLEN@sains_dvd_rentalcustomer.org,665356572025,1,"Southern Mindanao",49521,Davao,Philippines
+28,"CYNTHIA YOUNG",CYNTHIA.YOUNG@sains_dvd_rentalcustomer.org,678220867005,1,Bihar,65599,"Munger (Monghyr)",India
+29,"ANGELA HERNANDEZ",ANGELA.HERNANDEZ@sains_dvd_rentalcustomer.org,18461860151,1,Yamaguchi,65750,Shimonoseki,Japan
+30,"MELISSA KING",MELISSA.KING@sains_dvd_rentalcustomer.org,525255540978,1,Taipei,50199,Lungtan,Taiwan
+31,"BRENDA WRIGHT",BRENDA.WRIGHT@sains_dvd_rentalcustomer.org,745994947458,1,"West Bengali",30348,Kamarhati,India
+32,"AMY LOPEZ",AMY.LOPEZ@sains_dvd_rentalcustomer.org,627705991774,1,"Uttar Pradesh",65213,Jhansi,India
+33,"ANNA HILL",ANNA.HILL@sains_dvd_rentalcustomer.org,911872220378,1,Piemonte,79388,Alessandria,Italy
+34,"REBECCA SCOTT",REBECCA.SCOTT@sains_dvd_rentalcustomer.org,708403338270,1,Okayama,94065,Kurashiki,Japan
+35,"VIRGINIA GREEN",VIRGINIA.GREEN@sains_dvd_rentalcustomer.org,440512153169,1,Midi-Pyrnes,34021,Toulouse,France
+36,"KATHLEEN ADAMS",KATHLEEN.ADAMS@sains_dvd_rentalcustomer.org,481183273622,1,Markazi,38145,Arak,Iran
+37,"PAMELA BAKER",PAMELA.BAKER@sains_dvd_rentalcustomer.org,912257250465,1,Henan,47929,Nanyang,China
+38,"MARTHA GONZALEZ",MARTHA.GONZALEZ@sains_dvd_rentalcustomer.org,489783829737,1,Chisinau,34689,Chisinau,Moldova
+39,"DEBRA NELSON",DEBRA.NELSON@sains_dvd_rentalcustomer.org,378318851631,1,"Esprito Santo",3989,"Vila Velha",Brazil
+40,"AMANDA CARTER",AMANDA.CARTER@sains_dvd_rentalcustomer.org,680768868518,1,Oriental,94399,Nador,Morocco
+41,"STEPHANIE MITCHELL",STEPHANIE.MITCHELL@sains_dvd_rentalcustomer.org,42384721397,1,Yerevan,16744,Yerevan,Armenia
+42,"CAROLYN PEREZ",CAROLYN.PEREZ@sains_dvd_rentalcustomer.org,471675840679,1,Nonthaburi,61117,"Pak Kret",Thailand
+43,"CHRISTINE ROBERTS",CHRISTINE.ROBERTS@sains_dvd_rentalcustomer.org,539758313890,1,Tahiti,48942,Faaa,"French Polynesia"
+44,"MARIE TURNER",MARIE.TURNER@sains_dvd_rentalcustomer.org,177727722820,1,Lipetsk,76022,Lipetsk,"Russian Federation"
+45,"JANET PHILLIPS",JANET.PHILLIPS@sains_dvd_rentalcustomer.org,675292816413,1,Antofagasta,37359,Antofagasta,Chile
+46,"CATHERINE CAMPBELL",CATHERINE.CAMPBELL@sains_dvd_rentalcustomer.org,262076994845,1,"Moscow (City)",23616,Moscow,"Russian Federation"
+47,"FRANCES PARKER",FRANCES.PARKER@sains_dvd_rentalcustomer.org,69493378813,1,Cear,52535,"Juazeiro do Norte",Brazil
+48,"ANN EVANS",ANN.EVANS@sains_dvd_rentalcustomer.org,705800322606,1,Tatarstan,69367,Niznekamsk,"Russian Federation"
+49,"JOYCE EDWARDS",JOYCE.EDWARDS@sains_dvd_rentalcustomer.org,876295323994,1,Mekka,74428,Jedda,"Saudi Arabia"
+50,"DIANE COLLINS",DIANE.COLLINS@sains_dvd_rentalcustomer.org,307703950263,1,Khartum,80168,Omdurman,Sudan
+51,"ALICE STEWART",ALICE.STEWART@sains_dvd_rentalcustomer.org,171822533480,1,California,48150,Fontana,"United States"
+52,"JULIE SANCHEZ",JULIE.SANCHEZ@sains_dvd_rentalcustomer.org,680428310138,1,Galicia,4166,"A Corua (La Corua)",Spain
+53,"HEATHER MORRIS",HEATHER.MORRIS@sains_dvd_rentalcustomer.org,697760867968,1,Chiba,38594,Nagareyama,Japan
+54,"TERESA ROGERS",TERESA.ROGERS@sains_dvd_rentalcustomer.org,920811325222,1,Yamaguchi,48980,Iwakuni,Japan
+55,"DORIS REED",DORIS.REED@sains_dvd_rentalcustomer.org,499352017190,1,Moskova,57807,Balaiha,"Russian Federation"
+56,"GLORIA COOK",GLORIA.COOK@sains_dvd_rentalcustomer.org,347487831378,1,Tahiti,39072,Papeete,"French Polynesia"
+57,"EVELYN MORGAN",EVELYN.MORGAN@sains_dvd_rentalcustomer.org,889318963672,1,Vaduz,45428,Vaduz,Liechtenstein
+58,"JEAN BELL",JEAN.BELL@sains_dvd_rentalcustomer.org,212869228936,1,Sarawak,69226,Kuching,Malaysia
+59,"CHERYL MURPHY",CHERYL.MURPHY@sains_dvd_rentalcustomer.org,800024380485,1,Karnataka,94352,Mysore,India
+60,"MILDRED BAILEY",MILDRED.BAILEY@sains_dvd_rentalcustomer.org,250767749542,1,Rajasthan,55561,Jaipur,India
+61,"KATHERINE RIVERA",KATHERINE.RIVERA@sains_dvd_rentalcustomer.org,1395251317,1,Basel-Stadt,83980,Basel,Switzerland
+62,"JOAN COOPER",JOAN.COOPER@sains_dvd_rentalcustomer.org,914090181665,1,Missouri,85505,"Saint Louis","United States"
+63,"ASHLEY RICHARDSON",ASHLEY.RICHARDSON@sains_dvd_rentalcustomer.org,491001136577,1,Nebraska,67055,Lincoln,"United States"
+64,"JUDITH COX",JUDITH.COX@sains_dvd_rentalcustomer.org,333489324603,0,Sichuan,70385,Daxian,China
+65,"ROSE HOWARD",ROSE.HOWARD@sains_dvd_rentalcustomer.org,409983924481,1,Cayenne,71110,Cayenne,"French Guiana"
+66,"JANICE WARD",JANICE.WARD@sains_dvd_rentalcustomer.org,663449333709,1,"Skne ln",96109,Malm,Sweden
+67,"KELLY TORRES",KELLY.TORRES@sains_dvd_rentalcustomer.org,947233365992,1,Hunan,5135,Xiangtan,China
+68,"NICOLE PETERSON",NICOLE.PETERSON@sains_dvd_rentalcustomer.org,990214419142,1,"Madhya Pradesh",48960,Shivapuri,India
+69,"JUDY GRAY",JUDY.GRAY@sains_dvd_rentalcustomer.org,107137400143,1,Bchar,59025,Bchar,Algeria
+70,"CHRISTINA RAMIREZ",CHRISTINA.RAMIREZ@sains_dvd_rentalcustomer.org,407733804223,1,Mekka,6856,al-Hawiya,"Saudi Arabia"
+71,"KATHY JAMES",KATHY.JAMES@sains_dvd_rentalcustomer.org,565018274456,1,"Eastern Visayas",50805,Baybay,Philippines
+72,"THERESA WATSON",THERESA.WATSON@sains_dvd_rentalcustomer.org,255800440636,1,"National Capital Reg",75444,Taguig,Philippines
+73,"BEVERLY BROOKS",BEVERLY.BROOKS@sains_dvd_rentalcustomer.org,427454485876,1,Chiayi,60951,Chiayi,Taiwan
+74,"DENISE KELLY",DENISE.KELLY@sains_dvd_rentalcustomer.org,241832790687,1,"So Paulo",20207,"Rio Claro",Brazil
+75,"TAMMY SANDERS",TAMMY.SANDERS@sains_dvd_rentalcustomer.org,251164340471,1,Changhwa,72394,Changhwa,Taiwan
+76,"IRENE PRICE",IRENE.PRICE@sains_dvd_rentalcustomer.org,896314772871,1,Pavlodar,98889,Pavlodar,Kazakstan
+77,"JANE BENNETT",JANE.BENNETT@sains_dvd_rentalcustomer.org,918711376618,1,"So Paulo",9223,Araatuba,Brazil
+78,"LORI WOOD",LORI.WOOD@sains_dvd_rentalcustomer.org,875756771675,1,"Uttar Pradesh",96709,"Rae Bareli",India
+79,"RACHEL BARNES",RACHEL.BARNES@sains_dvd_rentalcustomer.org,18581624103,1,Kanagawa,1079,Kamakura,Japan
+80,"MARILYN ROSS",MARILYN.ROSS@sains_dvd_rentalcustomer.org,701457319790,1,"Oyo & Osun",20936,Ife,Nigeria
+81,"ANDREA HENDERSON",ANDREA.HENDERSON@sains_dvd_rentalcustomer.org,223664661973,1,Mahajanga,37307,Mahajanga,Madagascar
+82,"KATHRYN COLEMAN",KATHRYN.COLEMAN@sains_dvd_rentalcustomer.org,821972242086,1,Krim,9495,Simferopol,Ukraine
+83,"LOUISE JENKINS",LOUISE.JENKINS@sains_dvd_rentalcustomer.org,800716535041,1,Gauteng,74671,Springs,"South Africa"
+84,"SARA PERRY",SARA.PERRY@sains_dvd_rentalcustomer.org,48417642933,1,Puebla,67912,Atlixco,Mexico
+85,"ANNE POWELL",ANNE.POWELL@sains_dvd_rentalcustomer.org,720998247660,1,England,88002,Bradford,"United Kingdom"
+86,"JACQUELINE LONG",JACQUELINE.LONG@sains_dvd_rentalcustomer.org,135117278909,1,Songkhla,84931,Songkhla,Thailand
+87,"WANDA PATTERSON",WANDA.PATTERSON@sains_dvd_rentalcustomer.org,198123170793,1,Sucre,29932,Sincelejo,Colombia
+88,"BONNIE HUGHES",BONNIE.HUGHES@sains_dvd_rentalcustomer.org,978987363654,1,Cheju,82624,Cheju,"South Korea"
+89,"JULIA FLORES",JULIA.FLORES@sains_dvd_rentalcustomer.org,846225459260,1,"Buenos Aires",75543,"La Plata",Argentina
+90,"RUBY WASHINGTON",RUBY.WASHINGTON@sains_dvd_rentalcustomer.org,991562402283,1,Guangdong,25958,Meixian,China
+91,"LOIS BUTLER",LOIS.BUTLER@sains_dvd_rentalcustomer.org,345679835036,1,"Brunei and Muara",52163,"Bandar Seri Begawan",Brunei
+92,"TINA SIMMONS",TINA.SIMMONS@sains_dvd_rentalcustomer.org,132986892228,1,Gois,17119,Goinia,Brazil
+93,"PHYLLIS FOSTER",PHYLLIS.FOSTER@sains_dvd_rentalcustomer.org,275595571388,1,"Inner Mongolia",49021,Zalantun,China
+94,"NORMA GONZALES",NORMA.GONZALES@sains_dvd_rentalcustomer.org,835433605312,1,Caraga,53182,Bislig,Philippines
+95,"PAULA BRYANT",PAULA.BRYANT@sains_dvd_rentalcustomer.org,4764773857,1,Punjab,22870,Pathankot,India
+96,"DIANA ALEXANDER",DIANA.ALEXANDER@sains_dvd_rentalcustomer.org,6171054059,1,Georgia,30695,"Augusta-Richmond County","United States"
+97,"ANNIE RUSSELL",ANNIE.RUSSELL@sains_dvd_rentalcustomer.org,817248913162,1,Tete,71986,Tete,Mozambique
+98,"LILLIAN GRIFFIN",LILLIAN.GRIFFIN@sains_dvd_rentalcustomer.org,412903167998,1,"Abu Dhabi",92265,al-Ayn,"United Arab Emirates"
+99,"EMILY DIAZ",EMILY.DIAZ@sains_dvd_rentalcustomer.org,333339908719,1,Kyongsangbuk,51540,Kimchon,"South Korea"
+100,"ROBIN HAYES",ROBIN.HAYES@sains_dvd_rentalcustomer.org,942570536750,1,Lipetsk,97287,Jelets,"Russian Federation"
+101,"PEGGY MYERS",PEGGY.MYERS@sains_dvd_rentalcustomer.org,196568435814,1,Asir,77459,Abha,"Saudi Arabia"
+102,"CRYSTAL FORD",CRYSTAL.FORD@sains_dvd_rentalcustomer.org,709935135487,1,"Ha Darom",49708,Ashdod,Israel
+103,"GLADYS HAMILTON",GLADYS.HAMILTON@sains_dvd_rentalcustomer.org,484292626944,1,"Kwara & Kogi",3305,Ilorin,Nigeria
+104,"RITA GRAHAM",RITA.GRAHAM@sains_dvd_rentalcustomer.org,449216226468,1,Provence-Alpes-Cte,80720,Toulon,France
+105,"DAWN SULLIVAN",DAWN.SULLIVAN@sains_dvd_rentalcustomer.org,963887147572,1,Funafuti,76383,Funafuti,Tuvalu
+106,"CONNIE WALLACE",CONNIE.WALLACE@sains_dvd_rentalcustomer.org,547003310357,1,Ivanovo,78311,Ivanovo,"Russian Federation"
+107,"FLORENCE WOODS",FLORENCE.WOODS@sains_dvd_rentalcustomer.org,330838016880,1,"Buenos Aires",9599,Merlo,Argentina
+108,"TRACY COLE",TRACY.COLE@sains_dvd_rentalcustomer.org,371490777743,1,Mxico,93026,Huixquilucan,Mexico
+109,"EDNA WEST",EDNA.WEST@sains_dvd_rentalcustomer.org,622255216127,1,"North West",30418,Klerksdorp,"South Africa"
+110,"TIFFANY JORDAN",TIFFANY.JORDAN@sains_dvd_rentalcustomer.org,379804592943,1,Hubei,61069,Enshi,China
+111,"CARMEN OWENS",CARMEN.OWENS@sains_dvd_rentalcustomer.org,272234298332,1,"Distrito Federal",75834,Caracas,Venezuela
+112,"ROSA REYNOLDS",ROSA.REYNOLDS@sains_dvd_rentalcustomer.org,824370924746,1,California,87057,Lancaster,"United States"
+113,"CINDY FISHER",CINDY.FISHER@sains_dvd_rentalcustomer.org,358178933857,1,Sucre,10885,Cuman,Venezuela
+114,"GRACE ELLIS",GRACE.ELLIS@sains_dvd_rentalcustomer.org,886636413768,1,Nordrhein-Westfalen,24321,Duisburg,Germany
+115,"WENDY HARRISON",WENDY.HARRISON@sains_dvd_rentalcustomer.org,867546627903,1,Mxico,75149,Nezahualcyotl,Mexico
+116,"VICTORIA GIBSON",VICTORIA.GIBSON@sains_dvd_rentalcustomer.org,386759646229,1,"Central Java",63502,Pemalang,Indonesia
+117,"EDITH MCDONALD",EDITH.MCDONALD@sains_dvd_rentalcustomer.org,577812616052,1,Gujarat,73644,Gandhinagar,India
+118,"KIM CRUZ",KIM.CRUZ@sains_dvd_rentalcustomer.org,909029256431,1,Texas,78625,"Grand Prairie","United States"
+119,"SHERRY MARSHALL",SHERRY.MARSHALL@sains_dvd_rentalcustomer.org,787654415858,1,al-Qalyubiya,96065,"Shubra al-Khayma",Egypt
+120,"SYLVIA ORTIZ",SYLVIA.ORTIZ@sains_dvd_rentalcustomer.org,765345144779,1,Risaralda,76157,"Dos Quebradas",Colombia
+121,"JOSEPHINE GOMEZ",JOSEPHINE.GOMEZ@sains_dvd_rentalcustomer.org,665993880048,1,"Uttar Pradesh",58186,Etawah,India
+122,"THELMA MURRAY",THELMA.MURRAY@sains_dvd_rentalcustomer.org,937222955822,1,Lima,64615,Lima,Peru
+123,"SHANNON FREEMAN",SHANNON.FREEMAN@sains_dvd_rentalcustomer.org,677976133614,1,"Uttar Pradesh",6804,"Varanasi (Benares)",India
+124,"SHEILA WELLS",SHEILA.WELLS@sains_dvd_rentalcustomer.org,614935229095,0,Ktahya,45142,Ktahya,Turkey
+125,"ETHEL WEBB",ETHEL.WEBB@sains_dvd_rentalcustomer.org,490211944645,1,Gauteng,60304,Boksburg,"South Africa"
+126,"ELLEN SIMPSON",ELLEN.SIMPSON@sains_dvd_rentalcustomer.org,582835362905,1,"So Paulo",66255,Po,Brazil
+127,"ELAINE STEVENS",ELAINE.STEVENS@sains_dvd_rentalcustomer.org,237426099212,1,Smolensk,8439,Smolensk,"Russian Federation"
+128,"MARJORIE TUCKER",MARJORIE.TUCKER@sains_dvd_rentalcustomer.org,973047364353,1,Slaskie,4999,Jastrzebie-Zdrj,Poland
+129,"CARRIE PORTER",CARRIE.PORTER@sains_dvd_rentalcustomer.org,509492324775,1,Shandong,15819,Liaocheng,China
+130,"CHARLOTTE HUNTER",CHARLOTTE.HUNTER@sains_dvd_rentalcustomer.org,935448624185,1,Gois,82639,"guas Lindas de Gois",Brazil
+131,"MONICA HICKS",MONICA.HICKS@sains_dvd_rentalcustomer.org,252265130067,1,Taka-Karpatia,14014,Mukateve,Ukraine
+132,"ESTHER CRAWFORD",ESTHER.CRAWFORD@sains_dvd_rentalcustomer.org,707169393853,1,"Free State",49757,Botshabelo,"South Africa"
+133,"PAULINE HENRY",PAULINE.HENRY@sains_dvd_rentalcustomer.org,321944036800,1,"Coahuila de Zaragoza",83401,Torren,Mexico
+134,"EMMA BOYD",EMMA.BOYD@sains_dvd_rentalcustomer.org,23712411567,1,al-Qalyubiya,4285,Qalyub,Egypt
+135,"JUANITA MASON",JUANITA.MASON@sains_dvd_rentalcustomer.org,90921003005,1,Maharashtra,5892,Pune,India
+136,"ANITA MORALES",ANITA.MORALES@sains_dvd_rentalcustomer.org,146497509724,1,Karnataka,81691,Hubli-Dharwad,India
+137,"RHONDA KENNEDY",RHONDA.KENNEDY@sains_dvd_rentalcustomer.org,963369996279,1,Gelderland,11044,Apeldoorn,Netherlands
+138,"HAZEL WARREN",HAZEL.WARREN@sains_dvd_rentalcustomer.org,468060467018,1,"Inner Mongolia",85769,Hohhot,China
+139,"AMBER DIXON",AMBER.DIXON@sains_dvd_rentalcustomer.org,33173584456,1,Ynlin,57519,Touliu,Taiwan
+140,"EVA RAMOS",EVA.RAMOS@sains_dvd_rentalcustomer.org,9099941466,1,Tennessee,13377,Clarksville,"United States"
+141,"DEBBIE REYES",DEBBIE.REYES@sains_dvd_rentalcustomer.org,581852137991,1,Hiroshima,93762,Fukuyama,Japan
+142,"APRIL BURNS",APRIL.BURNS@sains_dvd_rentalcustomer.org,581174211853,1,Scotland,60562,Dundee,"United Kingdom"
+143,"LESLIE GORDON",LESLIE.GORDON@sains_dvd_rentalcustomer.org,923261616249,1,Kilis,97700,Kilis,Turkey
+144,"CLARA SHAW",CLARA.SHAW@sains_dvd_rentalcustomer.org,563660187896,1,Minsk,30861,Molodetno,Belarus
+145,"LUCILLE HOLMES",LUCILLE.HOLMES@sains_dvd_rentalcustomer.org,918032330119,1,Gauteng,3439,Soshanguve,"South Africa"
+146,"JAMIE RICE",JAMIE.RICE@sains_dvd_rentalcustomer.org,206841104594,1,Michigan,90732,"Sterling Heights","United States"
+147,"JOANNE ROBERTSON",JOANNE.ROBERTSON@sains_dvd_rentalcustomer.org,597815221267,1,Saitama,99457,Urawa,Japan
+148,"ELEANOR HUNT",ELEANOR.HUNT@sains_dvd_rentalcustomer.org,354615066969,1,Saint-Denis,92150,Saint-Denis,Runion
+149,"VALERIE BLACK",VALERIE.BLACK@sains_dvd_rentalcustomer.org,885899703621,1,Massachusetts,25545,Brockton,"United States"
+150,"DANIELLE DANIELS",DANIELLE.DANIELS@sains_dvd_rentalcustomer.org,632316273199,1,"Michoacn de Ocampo",95444,Hidalgo,Mexico
+151,"MEGAN PALMER",MEGAN.PALMER@sains_dvd_rentalcustomer.org,189446090264,1,Shandong,77777,Laiwu,China
+152,"ALICIA MILLS",ALICIA.MILLS@sains_dvd_rentalcustomer.org,761379480249,1,Assam,64863,Nagaon,India
+153,"SUZANNE NICHOLS",SUZANNE.NICHOLS@sains_dvd_rentalcustomer.org,719202533520,1,"Jakarta Raya",36061,Jakarta,Indonesia
+154,"MICHELE GRANT",MICHELE.GRANT@sains_dvd_rentalcustomer.org,499408708580,1,Shanxi,76990,Yuncheng,China
+155,"GAIL KNIGHT",GAIL.KNIGHT@sains_dvd_rentalcustomer.org,904253967161,1,Bern,41778,Bern,Switzerland
+156,"BERTHA FERGUSON",BERTHA.FERGUSON@sains_dvd_rentalcustomer.org,889538496300,1,"Ondo & Ekiti",21294,Ondo,Nigeria
+157,"DARLENE ROSE",DARLENE.ROSE@sains_dvd_rentalcustomer.org,368899174225,1,Pyongyang-si,53502,Pyongyang,"North Korea"
+158,"VERONICA STONE",VERONICA.STONE@sains_dvd_rentalcustomer.org,170117068815,1,"North Carolina",66639,Greensboro,"United States"
+159,"JILL HAWKINS",JILL.HAWKINS@sains_dvd_rentalcustomer.org,931059836497,1,"North Austria",81037,Linz,Austria
+160,"ERIN DUNN",ERIN.DUNN@sains_dvd_rentalcustomer.org,149981248346,1,Moskova,81511,Ljubertsy,"Russian Federation"
+161,"GERALDINE PERKINS",GERALDINE.PERKINS@sains_dvd_rentalcustomer.org,177167004331,1,"Tel Aviv",44660,"Tel Aviv-Jaffa",Israel
+162,"LAUREN HUDSON",LAUREN.HUDSON@sains_dvd_rentalcustomer.org,168476538960,1,"Pays de la Loire",22853,"Le Mans",France
+163,"CATHY SPENCER",CATHY.SPENCER@sains_dvd_rentalcustomer.org,819416131190,1,Gifu,57844,Kakamigahara,Japan
+164,"JOANN GARDNER",JOANN.GARDNER@sains_dvd_rentalcustomer.org,697151428760,1,Adana,3313,Tarsus,Turkey
+165,"LORRAINE STEPHENS",LORRAINE.STEPHENS@sains_dvd_rentalcustomer.org,935508855935,1,Xinxiang,62250,Hami,China
+166,"LYNN PAYNE",LYNN.PAYNE@sains_dvd_rentalcustomer.org,843801144113,1,Lilongwe,76901,Lilongwe,Malawi
+167,"SALLY PIERCE",SALLY.PIERCE@sains_dvd_rentalcustomer.org,182363341674,1,Maharashtra,62686,Chandrapur,India
+168,"REGINA BERRY",REGINA.BERRY@sains_dvd_rentalcustomer.org,201705577290,1,Gansu,59571,Jinchang,China
+169,"ERICA MATTHEWS",ERICA.MATTHEWS@sains_dvd_rentalcustomer.org,161801569569,0,Jiangxi,70618,Pingxiang,China
+170,"BEATRICE ARNOLD",BEATRICE.ARNOLD@sains_dvd_rentalcustomer.org,264541743403,1,Rajasthan,63337,Udaipur,India
+171,"DOLORES WAGNER",DOLORES.WAGNER@sains_dvd_rentalcustomer.org,275788967899,1,Perak,58194,Ipoh,Malaysia
+172,"BERNICE WILLIS",BERNICE.WILLIS@sains_dvd_rentalcustomer.org,734780743462,1,Batman,47753,Batman,Turkey
+173,"AUDREY RAY",AUDREY.RAY@sains_dvd_rentalcustomer.org,493008546874,1,Steiermark,6802,Graz,Austria
+174,"YVONNE WATKINS",YVONNE.WATKINS@sains_dvd_rentalcustomer.org,48265851133,1,Miranda,25220,"Ocumare del Tuy",Venezuela
+175,"ANNETTE OLSON",ANNETTE.OLSON@sains_dvd_rentalcustomer.org,230250973122,1,Kerala,4854,"Allappuzha (Alleppey)",India
+176,"JUNE CARROLL",JUNE.CARROLL@sains_dvd_rentalcustomer.org,506134035434,1,Skikda,89668,Skikda,Algeria
+177,"SAMANTHA DUNCAN",SAMANTHA.DUNCAN@sains_dvd_rentalcustomer.org,953689007081,1,Tamaulipas,54132,Matamoros,Mexico
+178,"MARION SNYDER",MARION.SNYDER@sains_dvd_rentalcustomer.org,391065549876,1,"So Paulo",47288,"Santa Brbara dOeste",Brazil
+179,"DANA HART",DANA.HART@sains_dvd_rentalcustomer.org,866092335135,1,Kirov,35109,Kirovo-Tepetsk,"Russian Federation"
+180,"STACY CUNNINGHAM",STACY.CUNNINGHAM@sains_dvd_rentalcustomer.org,104150372603,1,Risaralda,29747,Pereira,Colombia
+181,"ANA BRADLEY",ANA.BRADLEY@sains_dvd_rentalcustomer.org,72136330362,1,Tennessee,67497,Memphis,"United States"
+182,"RENEE LANE",RENEE.LANE@sains_dvd_rentalcustomer.org,662227486184,1,California,8862,Compton,"United States"
+183,"IDA ANDREWS",IDA.ANDREWS@sains_dvd_rentalcustomer.org,947468818183,1,Gois,55709,Luzinia,Brazil
+184,"VIVIAN RUIZ",VIVIAN.RUIZ@sains_dvd_rentalcustomer.org,302590383819,1,Noord-Brabant,43310,s-Hertogenbosch,Netherlands
+185,"ROBERTA HARPER",ROBERTA.HARPER@sains_dvd_rentalcustomer.org,951486492670,1,"Chaharmahal va Bakht",65121,"Shahr-e Kord",Iran
+186,"HOLLY FOX",HOLLY.FOX@sains_dvd_rentalcustomer.org,760171523969,1,"West Bengali",74750,Haldia,India
+187,"BRITTANY RILEY",BRITTANY.RILEY@sains_dvd_rentalcustomer.org,855863906434,1,Sumy,38982,Sumy,Ukraine
+188,"MELANIE ARMSTRONG",MELANIE.ARMSTRONG@sains_dvd_rentalcustomer.org,650752094490,1,Caraga,58852,Bayugan,Philippines
+189,"LORETTA CARPENTER",LORETTA.CARPENTER@sains_dvd_rentalcustomer.org,247646995453,1,Ontario,5379,Oshawa,Canada
+190,"YOLANDA WEAVER",YOLANDA.WEAVER@sains_dvd_rentalcustomer.org,352469351088,1,Tabora,49348,Tabora,Tanzania
+191,"JEANETTE GREENE",JEANETTE.GREENE@sains_dvd_rentalcustomer.org,812824036424,1,Rostov-na-Donu,65387,Novoterkassk,"Russian Federation"
+192,"LAURIE LAWRENCE",LAURIE.LAWRENCE@sains_dvd_rentalcustomer.org,956188728558,1,"Uttar Pradesh",90845,Firozabad,India
+193,"KATIE ELLIOTT",KATIE.ELLIOTT@sains_dvd_rentalcustomer.org,940830176580,1,Nyanza,10428,Kisumu,Kenya
+194,"KRISTEN CHAVEZ",KRISTEN.CHAVEZ@sains_dvd_rentalcustomer.org,104491201771,1,Tokyo-to,32114,Hino,Japan
+195,"VANESSA SIMS",VANESSA.SIMS@sains_dvd_rentalcustomer.org,419419591240,1,Nordrhein-Westfalen,15540,Siegen,Germany
+196,"ALMA AUSTIN",ALMA.AUSTIN@sains_dvd_rentalcustomer.org,331132568928,1,Baden-Wrttemberg,36490,Mannheim,Germany
+197,"SUE PETERS",SUE.PETERS@sains_dvd_rentalcustomer.org,264286442804,1,Jiangsu,89459,Changzhou,China
+198,"ELSIE KELLEY",ELSIE.KELLEY@sains_dvd_rentalcustomer.org,768481779568,1,"Ondo & Ekiti",1545,Ikerre,Nigeria
+199,"BETH FRANKLIN",BETH.FRANKLIN@sains_dvd_rentalcustomer.org,470884141195,1,Haiphong,95824,Haiphong,Vietnam
+200,"JEANNE LAWSON",JEANNE.LAWSON@sains_dvd_rentalcustomer.org,764477681869,1,Ahal,8073,Ashgabat,Turkmenistan
+201,"VICKI FIELDS",VICKI.FIELDS@sains_dvd_rentalcustomer.org,146640639760,1,Nordrhein-Westfalen,4662,Witten,Germany
+202,"CARLA GUTIERREZ",CARLA.GUTIERREZ@sains_dvd_rentalcustomer.org,369050085652,1,Maharashtra,3924,Bhusawal,India
+203,"TARA RYAN",TARA.RYAN@sains_dvd_rentalcustomer.org,652218196731,1,"Sulawesi Utara",61613,Gorontalo,Indonesia
+204,"ROSEMARY SCHMIDT",ROSEMARY.SCHMIDT@sains_dvd_rentalcustomer.org,646237101779,1,Usak,25238,Usak,Turkey
+205,"EILEEN CARR",EILEEN.CARR@sains_dvd_rentalcustomer.org,905903574913,1,"Alto Paran",86599,"Ciudad del Este",Paraguay
+206,"TERRI VASQUEZ",TERRI.VASQUEZ@sains_dvd_rentalcustomer.org,90336226227,1,"Santa Catarina",10925,Blumenau,Brazil
+207,"GERTRUDE CASTILLO",GERTRUDE.CASTILLO@sains_dvd_rentalcustomer.org,403404780639,1,Kitaa,10800,Nuuk,Greenland
+208,"LUCY WHEELER",LUCY.WHEELER@sains_dvd_rentalcustomer.org,49677664184,1,"West Bengali",89959,Balurghat,India
+209,"TONYA CHAPMAN",TONYA.CHAPMAN@sains_dvd_rentalcustomer.org,95666951770,1,Rajasthan,4855,Bhilwara,India
+210,"ELLA OLIVER",ELLA.OLIVER@sains_dvd_rentalcustomer.org,756460337785,1,Aden,99405,Aden,Yemen
+211,"STACEY MONTGOMERY",STACEY.MONTGOMERY@sains_dvd_rentalcustomer.org,408304391718,1,Jilin,82161,Fuyu,China
+212,"WILMA RICHARDS",WILMA.RICHARDS@sains_dvd_rentalcustomer.org,168758068397,1,Washington,25053,Bellevue,"United States"
+213,"GINA WILLIAMSON",GINA.WILLIAMSON@sains_dvd_rentalcustomer.org,584316724815,1,Taizz,67924,Taizz,Yemen
+214,"KRISTIN JOHNSTON",KRISTIN.JOHNSTON@sains_dvd_rentalcustomer.org,785881412500,1,California,2299,Sunnyvale,"United States"
+215,"JESSIE BANKS",JESSIE.BANKS@sains_dvd_rentalcustomer.org,352679173732,1,Haskovo,99124,"Stara Zagora",Bulgaria
+216,"NATALIE MEYER",NATALIE.MEYER@sains_dvd_rentalcustomer.org,873492228462,1,Gois,21464,"Aparecida de Goinia",Brazil
+217,"AGNES BISHOP",AGNES.BISHOP@sains_dvd_rentalcustomer.org,778502731092,1,"Uttar Pradesh",22474,Sambhal,India
+218,"VERA MCCOY",VERA.MCCOY@sains_dvd_rentalcustomer.org,886649065861,1,Kabol,40301,Kabul,Afghanistan
+219,"WILLIE HOWELL",WILLIE.HOWELL@sains_dvd_rentalcustomer.org,991802825778,1,"Buenos Aires",20657,"Vicente Lpez",Argentina
+220,"CHARLENE ALVAREZ",CHARLENE.ALVAREZ@sains_dvd_rentalcustomer.org,706878974831,1,"Zanzibar West",94420,Zanzibar,Tanzania
+221,"BESSIE MORRISON",BESSIE.MORRISON@sains_dvd_rentalcustomer.org,469738825391,1,Sisilia,22824,Syrakusa,Italy
+222,"DELORES HANSEN",DELORES.HANSEN@sains_dvd_rentalcustomer.org,516331171356,1,Jaroslavl,73431,Jaroslavl,"Russian Federation"
+223,"MELINDA FERNANDEZ",MELINDA.FERNANDEZ@sains_dvd_rentalcustomer.org,99760893676,1,Punjab,88307,"Mandi Bahauddin",Pakistan
+224,"PEARL GARZA",PEARL.GARZA@sains_dvd_rentalcustomer.org,963063788669,1,Rajasthan,82338,Jodhpur,India
+225,"ARLENE HARVEY",ARLENE.HARVEY@sains_dvd_rentalcustomer.org,460795526514,1,"Tamil Nadu",66851,Ambattur,India
+226,"MAUREEN LITTLE",MAUREEN.LITTLE@sains_dvd_rentalcustomer.org,684192903087,1,Asuncin,64344,Asuncin,Paraguay
+227,"COLLEEN BURTON",COLLEEN.BURTON@sains_dvd_rentalcustomer.org,669828224459,1,Saarland,47446,Saarbrcken,Germany
+228,"ALLISON STANLEY",ALLISON.STANLEY@sains_dvd_rentalcustomer.org,594319417514,1,"Phnom Penh",87911,"Phnom Penh",Cambodia
+229,"TAMARA NGUYEN",TAMARA.NGUYEN@sains_dvd_rentalcustomer.org,22326410776,1,Gois,93323,Anpolis,Brazil
+230,"JOY GEORGE",JOY.GEORGE@sains_dvd_rentalcustomer.org,479007229460,1,Botosani,50598,Botosani,Romania
+231,"GEORGIA JACOBS",GEORGIA.JACOBS@sains_dvd_rentalcustomer.org,541327526474,1,"West Bengali",42420,Uttarpara-Kotrung,India
+232,"CONSTANCE REID",CONSTANCE.REID@sains_dvd_rentalcustomer.org,588964509072,1,Kaduna,31390,Zaria,Nigeria
+233,"LILLIE KIM",LILLIE.KIM@sains_dvd_rentalcustomer.org,431770603551,1,Qina,98775,Idfu,Egypt
+234,"CLAUDIA FULLER",CLAUDIA.FULLER@sains_dvd_rentalcustomer.org,630424482919,1,Hawalli,90628,"Jalib al-Shuyukh",Kuwait
+235,"JACKIE LYNCH",JACKIE.LYNCH@sains_dvd_rentalcustomer.org,610173756082,1,Valle,76448,Buenaventura,Colombia
+236,"MARCIA DEAN",MARCIA.DEAN@sains_dvd_rentalcustomer.org,727785483194,1,"Southern Tagalog",18727,Tanza,Philippines
+237,"TANYA GILBERT",TANYA.GILBERT@sains_dvd_rentalcustomer.org,792557457753,1,Chollanam,36971,Naju,"South Korea"
+238,"NELLIE GARRETT",NELLIE.GARRETT@sains_dvd_rentalcustomer.org,918119601885,1,Karnataka,14408,Shimoga,India
+239,"MINNIE ROMERO",MINNIE.ROMERO@sains_dvd_rentalcustomer.org,63937119031,1,"West Java",22236,Ciomas,Indonesia
+240,"MARLENE WELCH",MARLENE.WELCH@sains_dvd_rentalcustomer.org,137773001988,1,Fukushima,1921,Iwaki,Japan
+241,"HEIDI LARSON",HEIDI.LARSON@sains_dvd_rentalcustomer.org,279979529227,0,Hubei,87660,Xiangfan,China
+242,"GLENDA FRAZIER",GLENDA.FRAZIER@sains_dvd_rentalcustomer.org,890283544295,1,Hebei,28349,Qinhuangdao,China
+243,"LYDIA BURKE",LYDIA.BURKE@sains_dvd_rentalcustomer.org,686015532180,1,Tucumn,37288,"San Miguel de Tucumn",Argentina
+244,"VIOLA HANSON",VIOLA.HANSON@sains_dvd_rentalcustomer.org,569868543137,1,"Central Visayas",27722,Lapu-Lapu,Philippines
+245,"COURTNEY DAY",COURTNEY.DAY@sains_dvd_rentalcustomer.org,890289150158,1,Kyonggi,81314,Uijongbu,"South Korea"
+246,"MARIAN MENDOZA",MARIAN.MENDOZA@sains_dvd_rentalcustomer.org,741070712873,1,Paran,6461,Maring,Brazil
+247,"STELLA MORENO",STELLA.MORENO@sains_dvd_rentalcustomer.org,266798132374,1,Mxico,75933,"Coacalco de Berriozbal",Mexico
+248,"CAROLINE BOWMAN",CAROLINE.BOWMAN@sains_dvd_rentalcustomer.org,435785045362,1,Florida,57338,Tallahassee,"United States"
+249,"DORA MEDINA",DORA.MEDINA@sains_dvd_rentalcustomer.org,56257502250,1,Tianjin,38140,Tianjin,China
+250,"JO FOWLER",JO.FOWLER@sains_dvd_rentalcustomer.org,716256596301,1,"Oyo & Osun",98332,Oyo,Nigeria
+251,"VICKIE BREWER",VICKIE.BREWER@sains_dvd_rentalcustomer.org,567359279425,1,"Anhalt Sachsen",36481,Halle/Saale,Germany
+252,"MATTIE HOFFMAN",MATTIE.HOFFMAN@sains_dvd_rentalcustomer.org,246810237916,1,England,3433,London,"United Kingdom"
+253,"TERRY CARLSON",TERRY.CARLSON@sains_dvd_rentalcustomer.org,134673576619,1,Miyazaki,32474,Miyakonojo,Japan
+254,"MAXINE SILVA",MAXINE.SILVA@sains_dvd_rentalcustomer.org,840522972766,1,"Minas Gerais",45403,"Poos de Caldas",Brazil
+255,"IRMA PEARSON",IRMA.PEARSON@sains_dvd_rentalcustomer.org,987442542471,1,"Central Luzon",20777,Hagonoy,Philippines
+256,"MABEL HOLLAND",MABEL.HOLLAND@sains_dvd_rentalcustomer.org,884536620568,1,Sagaing,68146,Monywa,Myanmar
+257,"MARSHA DOUGLAS",MARSHA.DOUGLAS@sains_dvd_rentalcustomer.org,245477603573,1,Sofala,86768,Beira,Mozambique
+258,"MYRTLE FLEMING",MYRTLE.FLEMING@sains_dvd_rentalcustomer.org,46871694740,1,Santiago,69517,"Santiago de los Caballeros","Dominican Republic"
+259,"LENA JENSEN",LENA.JENSEN@sains_dvd_rentalcustomer.org,538241037443,1,"West Bengali",50390,Halisahar,India
+260,"CHRISTY VARGAS",CHRISTY.VARGAS@sains_dvd_rentalcustomer.org,276555730211,1,Shanxi,98484,Datong,China
+261,"DEANNA BYRD",DEANNA.BYRD@sains_dvd_rentalcustomer.org,265153400632,1,"Cagayan Valley",30065,Tuguegarao,Philippines
+262,"PATSY DAVIDSON",PATSY.DAVIDSON@sains_dvd_rentalcustomer.org,282874611748,1,Manab,93629,Portoviejo,Ecuador
+263,"HILDA HOPKINS",HILDA.HOPKINS@sains_dvd_rentalcustomer.org,322888976727,1,"National Capital Reg",51990,Mandaluyong,Philippines
+264,"GWENDOLYN MAY",GWENDOLYN.MAY@sains_dvd_rentalcustomer.org,303967439816,1,Osaka,19428,Higashiosaka,Japan
+265,"JENNIE TERRY",JENNIE.TERRY@sains_dvd_rentalcustomer.org,475553436330,1,"Severn Morava",20536,Olomouc,"Czech Republic"
+266,"NORA HERRERA",NORA.HERRERA@sains_dvd_rentalcustomer.org,621625204422,1,Salzburg,5410,Salzburg,Austria
+267,"MARGIE WADE",MARGIE.WADE@sains_dvd_rentalcustomer.org,192459639410,1,Hunan,53928,Lengshuijiang,China
+268,"NINA SOTO",NINA.SOTO@sains_dvd_rentalcustomer.org,357445645426,1,Kerala,49298,"Palghat (Palakkad)",India
+269,"CASSANDRA WALTERS",CASSANDRA.WALTERS@sains_dvd_rentalcustomer.org,685010736240,1,California,75090,Salinas,"United States"
+270,"LEAH CURTIS",LEAH.CURTIS@sains_dvd_rentalcustomer.org,701767622697,1,Wielkopolskie,83565,Kalisz,Poland
+271,"PENNY NEAL",PENNY.NEAL@sains_dvd_rentalcustomer.org,271149517630,0,"Tamil Nadu",11763,Kumbakonam,India
+272,"KAY CALDWELL",KAY.CALDWELL@sains_dvd_rentalcustomer.org,170739645687,1,Shandong,46063,Yantai,China
+273,"PRISCILLA LOWE",PRISCILLA.LOWE@sains_dvd_rentalcustomer.org,45387294817,1,Guanajuato,2012,Salamanca,Mexico
+274,"NAOMI JENNINGS",NAOMI.JENNINGS@sains_dvd_rentalcustomer.org,959949395183,1,Haryana,85548,Karnal,India
+275,"CAROLE BARNETT",CAROLE.BARNETT@sains_dvd_rentalcustomer.org,874337098891,1,Illinois,89502,Peoria,"United States"
+276,"BRANDY GRAVES",BRANDY.GRAVES@sains_dvd_rentalcustomer.org,75975221996,1,Michigan,24645,Warren,"United States"
+277,"OLGA JIMENEZ",OLGA.JIMENEZ@sains_dvd_rentalcustomer.org,363982224739,1,"Oyo & Osun",55802,Ogbomosho,Nigeria
+278,"BILLIE HORTON",BILLIE.HORTON@sains_dvd_rentalcustomer.org,880756161823,1,Bursa,56254,Inegl,Turkey
+279,"DIANNE SHELTON",DIANNE.SHELTON@sains_dvd_rentalcustomer.org,117592274996,1,"East Azerbaidzan",96204,Tabriz,Iran
+280,"TRACEY BARRETT",TRACEY.BARRETT@sains_dvd_rentalcustomer.org,85059738746,1,"Ondo & Ekiti",36229,Owo,Nigeria
+281,"LEONA OBRIEN",LEONA.OBRIEN@sains_dvd_rentalcustomer.org,583021225407,1,Fujian,30657,Fuzhou,China
+282,"JENNY CASTRO",JENNY.CASTRO@sains_dvd_rentalcustomer.org,62781725285,1,Ponce,8160,Ponce,"Puerto Rico"
+283,"FELICIA SUTTON",FELICIA.SUTTON@sains_dvd_rentalcustomer.org,790651020929,1,Xinxiang,58492,Korla,China
+284,"SONIA GREGORY",SONIA.GREGORY@sains_dvd_rentalcustomer.org,195003555232,1,"Edo & Delta",75860,"Benin City",Nigeria
+285,"MIRIAM MCKINNEY",MIRIAM.MCKINNEY@sains_dvd_rentalcustomer.org,341242939532,1,Shiga,46044,Otsu,Japan
+286,"VELMA LUCAS",VELMA.LUCAS@sains_dvd_rentalcustomer.org,558236142492,1,"Oyo & Osun",22650,Effon-Alaiye,Nigeria
+287,"BECKY MILES",BECKY.MILES@sains_dvd_rentalcustomer.org,648482415405,1,"Tamil Nadu",64221,Tambaram,India
+288,"BOBBIE CRAIG",BOBBIE.CRAIG@sains_dvd_rentalcustomer.org,957128697225,1,Guanajuato,33768,"Valle de Santiago",Mexico
+289,"VIOLET RODRIQUEZ",VIOLET.RODRIQUEZ@sains_dvd_rentalcustomer.org,172262454487,1,"Kowloon and New Kowl",58124,"Kowloon and New Kowloon","Hong Kong"
+290,"KRISTINA CHAMBERS",KRISTINA.CHAMBERS@sains_dvd_rentalcustomer.org,892523334,1,Gurico,53145,"Valle de la Pascua",Venezuela
+291,"TONI HOLT",TONI.HOLT@sains_dvd_rentalcustomer.org,976798660411,1,Virginia,61195,Roanoke,"United States"
+292,"MISTY LAMBERT",MISTY.LAMBERT@sains_dvd_rentalcustomer.org,350970907017,1,Sharja,19065,Sharja,"United Arab Emirates"
+293,"MAE FLETCHER",MAE.FLETCHER@sains_dvd_rentalcustomer.org,96604821070,1,Baskimaa,61391,"Donostia-San Sebastin",Spain
+294,"SHELLY WATTS",SHELLY.WATTS@sains_dvd_rentalcustomer.org,967274728547,1,Ohio,38834,Dayton,"United States"
+295,"DAISY BATES",DAISY.BATES@sains_dvd_rentalcustomer.org,816436065431,1,Pietari,8856,Kolpino,"Russian Federation"
+296,"RAMONA HALE",RAMONA.HALE@sains_dvd_rentalcustomer.org,429925609431,1,Punjab,98573,Patiala,India
+297,"SHERRI RHODES",SHERRI.RHODES@sains_dvd_rentalcustomer.org,510737228015,1,Maharashtra,4085,Ahmadnagar,India
+298,"ERIKA PENA",ERIKA.PENA@sains_dvd_rentalcustomer.org,161643343536,1,Pohjois-Pohjanmaa,40070,Oulu,Finland
+299,"JAMES GANNON",JAMES.GANNON@sains_dvd_rentalcustomer.org,710603868323,1,Hiroshima,52137,Hiroshima,Japan
+300,"JOHN FARNSWORTH",JOHN.FARNSWORTH@sains_dvd_rentalcustomer.org,51917807050,1,Maharashtra,56883,Parbhani,India
+301,"ROBERT BAUGHMAN",ROBERT.BAUGHMAN@sains_dvd_rentalcustomer.org,96110042435,1,Kaliningrad,68469,Kaliningrad,"Russian Federation"
+302,"MICHAEL SILVERMAN",MICHAEL.SILVERMAN@sains_dvd_rentalcustomer.org,108053751300,1,Liaoning,58979,Tiefa,China
+303,"WILLIAM SATTERFIELD",WILLIAM.SATTERFIELD@sains_dvd_rentalcustomer.org,407218522294,1,Sanaa,57587,Sanaa,Yemen
+304,"DAVID ROYAL",DAVID.ROYAL@sains_dvd_rentalcustomer.org,504434452842,1,Callao,79047,Callao,Peru
+305,"RICHARD MCCRARY",RICHARD.MCCRARY@sains_dvd_rentalcustomer.org,262088367001,1,Texas,42141,Arlington,"United States"
+306,"CHARLES KOWALSKI",CHARLES.KOWALSKI@sains_dvd_rentalcustomer.org,181179321332,1,Kedah,84804,"Sungai Petani",Malaysia
+307,"JOSEPH JOY",JOSEPH.JOY@sains_dvd_rentalcustomer.org,573441801529,1,"Rio de Janeiro",80184,"Angra dos Reis",Brazil
+308,"THOMAS GRIGSBY",THOMAS.GRIGSBY@sains_dvd_rentalcustomer.org,983259819766,1,Missouri,9668,"Kansas City","United States"
+309,"CHRISTOPHER GRECO",CHRISTOPHER.GRECO@sains_dvd_rentalcustomer.org,806016930576,1,Lombardia,70923,Brescia,Italy
+310,"DANIEL CABRAL",DANIEL.CABRAL@sains_dvd_rentalcustomer.org,103602195112,1,"Minas Gerais",59686,Ibirit,Brazil
+311,"PAUL TROUT",PAUL.TROUT@sains_dvd_rentalcustomer.org,688485191923,1,Kursk,94878,Kursk,"Russian Federation"
+312,"MARK RINEHART",MARK.RINEHART@sains_dvd_rentalcustomer.org,824396883951,1,Tabuk,17032,Tabuk,"Saudi Arabia"
+313,"DONALD MAHON",DONALD.MAHON@sains_dvd_rentalcustomer.org,613124286867,1,Hubei,91400,Ezhou,China
+314,"GEORGE LINTON",GEORGE.LINTON@sains_dvd_rentalcustomer.org,704948322302,1,"So Paulo",59255,Sorocaba,Brazil
+315,"KENNETH GOODEN",KENNETH.GOODEN@sains_dvd_rentalcustomer.org,508800331065,0,"Tel Aviv",62472,"Bat Yam",Israel
+316,"STEVEN CURLEY",STEVEN.CURLEY@sains_dvd_rentalcustomer.org,139378397418,1,Maharashtra,59811,Miraj,India
+317,"EDWARD BAUGH",EDWARD.BAUGH@sains_dvd_rentalcustomer.org,46568045367,1,Streymoyar,29763,Trshavn,"Faroe Islands"
+318,"BRIAN WYMAN",BRIAN.WYMAN@sains_dvd_rentalcustomer.org,556100547674,1,Kujawsko-Pomorskie,25787,Bydgoszcz,Poland
+319,"RONALD WEINER",RONALD.WEINER@sains_dvd_rentalcustomer.org,674805712553,1,Mxico,73170,"San Felipe del Progreso",Mexico
+320,"ANTHONY SCHWAB",ANTHONY.SCHWAB@sains_dvd_rentalcustomer.org,478229987054,1,Tutuila,28396,Tafuna,"American Samoa"
+321,"KEVIN SCHULER",KEVIN.SCHULER@sains_dvd_rentalcustomer.org,908029859266,1,Central,97960,Birgunj,Nepal
+322,"JASON MORRISSEY",JASON.MORRISSEY@sains_dvd_rentalcustomer.org,972574862516,1,"Buenos Aires",85799,"Baha Blanca",Argentina
+323,"MATTHEW MAHAN",MATTHEW.MAHAN@sains_dvd_rentalcustomer.org,869051782691,1,Morelos,54949,Cuautla,Mexico
+324,"GARY COY",GARY.COY@sains_dvd_rentalcustomer.org,168884817145,1,Henan,78543,Yuzhou,China
+325,"TIMOTHY BUNN",TIMOTHY.BUNN@sains_dvd_rentalcustomer.org,829116184079,1,"Distrito Federal",87611,Braslia,Brazil
+326,"JOSE ANDREW",JOSE.ANDREW@sains_dvd_rentalcustomer.org,961370847344,1,"St George",49833,Kingstown,"Saint Vincent and the Grenadines"
+327,"LARRY THRASHER",LARRY.THRASHER@sains_dvd_rentalcustomer.org,834418779292,1,Adana,33463,Adana,Turkey
+328,"JEFFREY SPEAR",JEFFREY.SPEAR@sains_dvd_rentalcustomer.org,38158430589,1,"West Java",59550,Ciparay,Indonesia
+329,"FRANK WAGGONER",FRANK.WAGGONER@sains_dvd_rentalcustomer.org,965273813662,1,Dhaka,64308,Jamalpur,Bangladesh
+330,"SCOTT SHELLEY",SCOTT.SHELLEY@sains_dvd_rentalcustomer.org,165450987037,1,Illinois,91590,Aurora,"United States"
+331,"ERIC ROBERT",ERIC.ROBERT@sains_dvd_rentalcustomer.org,105470691550,1,"Santa F",28814,"Santa F",Argentina
+332,"STEPHEN QUALLS",STEPHEN.QUALLS@sains_dvd_rentalcustomer.org,38988715447,1,Dhaka,1195,Dhaka,Bangladesh
+333,"ANDREW PURDY",ANDREW.PURDY@sains_dvd_rentalcustomer.org,119501405123,1,Baki,57828,Baku,Azerbaijan
+334,"RAYMOND MCWHORTER",RAYMOND.MCWHORTER@sains_dvd_rentalcustomer.org,834626715837,1,Sumqayit,49812,Sumqayit,Azerbaijan
+335,"GREGORY MAULDIN",GREGORY.MAULDIN@sains_dvd_rentalcustomer.org,80303246192,1,Sousse,22971,Sousse,Tunisia
+336,"JOSHUA MARK",JOSHUA.MARK@sains_dvd_rentalcustomer.org,869507847714,1,"Uttar Pradesh",15643,Rampur,India
+337,"JERRY JORDON",JERRY.JORDON@sains_dvd_rentalcustomer.org,647899404952,1,Hiroshima,52368,Onomichi,Japan
+338,"DENNIS GILMAN",DENNIS.GILMAN@sains_dvd_rentalcustomer.org,231383037471,1,"Western Cape",31483,Paarl,"South Africa"
+339,"WALTER PERRYMAN",WALTER.PERRYMAN@sains_dvd_rentalcustomer.org,624138001031,1,Henan,19913,Xinxiang,China
+340,"PATRICK NEWSOM",PATRICK.NEWSOM@sains_dvd_rentalcustomer.org,870635127812,1,Hanoi,85926,Hanoi,Vietnam
+341,"PETER MENARD",PETER.MENARD@sains_dvd_rentalcustomer.org,718917251754,1,Gelderland,504,Ede,Netherlands
+342,"HAROLD MARTINO",HAROLD.MARTINO@sains_dvd_rentalcustomer.org,697656479977,1,Roraima,71583,"Boa Vista",Brazil
+343,"DOUGLAS GRAF",DOUGLAS.GRAF@sains_dvd_rentalcustomer.org,895616862749,1,"Baja California",36170,Mexicali,Mexico
+344,"HENRY BILLINGSLEY",HENRY.BILLINGSLEY@sains_dvd_rentalcustomer.org,64536069371,1,Tongatapu,46069,Nukualofa,Tonga
+345,"CARL ARTIS",CARL.ARTIS@sains_dvd_rentalcustomer.org,20064292617,1,Central,60079,"San Lorenzo",Paraguay
+346,"ARTHUR SIMPKINS",ARTHUR.SIMPKINS@sains_dvd_rentalcustomer.org,262744791493,1,Adygea,56380,Maikop,"Russian Federation"
+347,"RYAN SALISBURY",RYAN.SALISBURY@sains_dvd_rentalcustomer.org,627924259271,1,Daugavpils,26857,Daugavpils,Latvia
+348,"ROGER QUINTANILLA",ROGER.QUINTANILLA@sains_dvd_rentalcustomer.org,55477302294,1,Taipei,87272,Hsichuh,Taiwan
+349,"JOE GILLILAND",JOE.GILLILAND@sains_dvd_rentalcustomer.org,53912826864,1,"Southern Tagalog",18841,Imus,Philippines
+350,"JUAN FRALEY",JUAN.FRALEY@sains_dvd_rentalcustomer.org,689199636560,1,Tuvassia,58866,Teboksary,"Russian Federation"
+351,"JACK FOUST",JACK.FOUST@sains_dvd_rentalcustomer.org,840957664136,1,Krasnojarsk,40792,Zeleznogorsk,"Russian Federation"
+352,"ALBERT CROUSE",ALBERT.CROUSE@sains_dvd_rentalcustomer.org,256546485220,1,Nord-Ouest,37636,Bamenda,Cameroon
+353,"JONATHAN SCARBOROUGH",JONATHAN.SCARBOROUGH@sains_dvd_rentalcustomer.org,754358349853,1,Hidalgo,49009,"Pachuca de Soto",Mexico
+354,"JUSTIN NGO",JUSTIN.NGO@sains_dvd_rentalcustomer.org,764680915323,1,"So Paulo",37650,"Santo Andr",Brazil
+355,"TERRY GRISSOM",TERRY.GRISSOM@sains_dvd_rentalcustomer.org,142596392389,1,Shimane,81508,Matsue,Japan
+356,"GERALD FULTZ",GERALD.FULTZ@sains_dvd_rentalcustomer.org,650496654258,1,"Madhya Pradesh",7431,Satna,India
+357,"KEITH RICO",KEITH.RICO@sains_dvd_rentalcustomer.org,738968474939,1,Bratislava,97056,Bratislava,Slovakia
+358,"SAMUEL MARLOW",SAMUEL.MARLOW@sains_dvd_rentalcustomer.org,620719383725,1,Jharkhand,5373,Ranchi,India
+359,"WILLIE MARKHAM",WILLIE.MARKHAM@sains_dvd_rentalcustomer.org,296394569728,1,"Buenos Aires",91299,"Almirante Brown",Argentina
+360,"RALPH MADRIGAL",RALPH.MADRIGAL@sains_dvd_rentalcustomer.org,102396298916,1,Arecibo,64875,Arecibo,"Puerto Rico"
+361,"LAWRENCE LAWTON",LAWRENCE.LAWTON@sains_dvd_rentalcustomer.org,845378657301,1,Centre,60440,Yaound,Cameroon
+362,"NICHOLAS BARFIELD",NICHOLAS.BARFIELD@sains_dvd_rentalcustomer.org,675120358494,1,Par,6066,Belm,Brazil
+363,"ROY WHITING",ROY.WHITING@sains_dvd_rentalcustomer.org,568367775448,1,Central,96584,Nyeri,Kenya
+364,"BENJAMIN VARNEY",BENJAMIN.VARNEY@sains_dvd_rentalcustomer.org,151249681135,1,Jalisco,77449,Guadalajara,Mexico
+365,"BRUCE SCHWARZ",BRUCE.SCHWARZ@sains_dvd_rentalcustomer.org,634445428822,1,Okinawa,45750,Okinawa,Japan
+366,"BRANDON HUEY",BRANDON.HUEY@sains_dvd_rentalcustomer.org,99883471275,1,Balikesir,33050,Balikesir,Turkey
+367,"ADAM GOOCH",ADAM.GOOCH@sains_dvd_rentalcustomer.org,166898395731,1,"Andhra Pradesh",2738,Adoni,India
+368,"HARRY ARCE",HARRY.ARCE@sains_dvd_rentalcustomer.org,320471479776,0,Esfahan,13203,Najafabad,Iran
+369,"FRED WHEAT",FRED.WHEAT@sains_dvd_rentalcustomer.org,561729882725,1,Chihuahua,91330,Jurez,Mexico
+370,"WAYNE TRUONG",WAYNE.TRUONG@sains_dvd_rentalcustomer.org,960505250340,1,Karnataka,69640,Gulbarga,India
+371,"BILLY POULIN",BILLY.POULIN@sains_dvd_rentalcustomer.org,333390595558,1,"Southern Tagalog",57810,Cabuyao,Philippines
+372,"STEVE MACKENZIE",STEVE.MACKENZIE@sains_dvd_rentalcustomer.org,440365973660,1,"East Java",72771,Probolinggo,Indonesia
+373,"LOUIS LEONE",LOUIS.LEONE@sains_dvd_rentalcustomer.org,45554316010,1,"Southern Tagalog",6362,Tanauan,Philippines
+374,"JEREMY HURTADO",JEREMY.HURTADO@sains_dvd_rentalcustomer.org,600264533987,1,Pernambuco,2800,"Vitria de Santo Anto",Brazil
+375,"AARON SELBY",AARON.SELBY@sains_dvd_rentalcustomer.org,409315295763,1,"East Kasai",22025,Mwene-Ditu,"Congo, The Democratic Republic of the"
+376,"RANDY GAITHER",RANDY.GAITHER@sains_dvd_rentalcustomer.org,96846695220,1,Kurgan,26385,Kurgan,"Russian Federation"
+377,"HOWARD FORTNER",HOWARD.FORTNER@sains_dvd_rentalcustomer.org,342720754566,1,Kermanshah,45298,Kermanshah,Iran
+378,"EUGENE CULPEPPER",EUGENE.CULPEPPER@sains_dvd_rentalcustomer.org,71857599858,1,Guangdong,97390,Shenzhen,China
+379,"CARLOS COUGHLIN",CARLOS.COUGHLIN@sains_dvd_rentalcustomer.org,924815207181,1,Gujarat,89294,Bhavnagar,India
+380,"RUSSELL BRINSON",RUSSELL.BRINSON@sains_dvd_rentalcustomer.org,821476736117,1,Slaskie,75442,Tychy,Poland
+381,"BOBBY BOUDREAU",BOBBY.BOUDREAU@sains_dvd_rentalcustomer.org,934352415130,1,,32716,"South Hill",Anguilla
+382,"VICTOR BARKLEY",VICTOR.BARKLEY@sains_dvd_rentalcustomer.org,486395999608,1,"New Hampshire",25007,Manchester,"United States"
+383,"MARTIN BALES",MARTIN.BALES@sains_dvd_rentalcustomer.org,106439158941,1,Namibe,17165,Namibe,Angola
+384,"ERNEST STEPP",ERNEST.STEPP@sains_dvd_rentalcustomer.org,550306965159,1,Jiangsu,95509,Huaian,China
+385,"PHILLIP HOLM",PHILLIP.HOLM@sains_dvd_rentalcustomer.org,776031833752,1,Ibaragi,14073,Tama,Japan
+386,"TODD TAN",TODD.TAN@sains_dvd_rentalcustomer.org,619966287415,1,Hmelnytskyi,33535,Kamjanets-Podilskyi,Ukraine
+387,"JESSE SCHILLING",JESSE.SCHILLING@sains_dvd_rentalcustomer.org,900235712074,1,Shaba,69973,Lubumbashi,"Congo, The Democratic Republic of the"
+388,"CRAIG MORRELL",CRAIG.MORRELL@sains_dvd_rentalcustomer.org,426255288071,1,"Southern Tagalog",21615,Cavite,Philippines
+389,"ALAN KAHN",ALAN.KAHN@sains_dvd_rentalcustomer.org,464511145118,1,Sichuan,3656,Emeishan,China
+390,"SHAWN HEATON",SHAWN.HEATON@sains_dvd_rentalcustomer.org,175283210378,1,"Nakhon Sawan",29810,"Nakhon Sawan",Thailand
+391,"CLARENCE GAMEZ",CLARENCE.GAMEZ@sains_dvd_rentalcustomer.org,667736124769,1,Osaka,83536,Izumisano,Japan
+392,"SEAN DOUGLASS",SEAN.DOUGLASS@sains_dvd_rentalcustomer.org,47808359842,1,"Addis Abeba",27796,"Addis Abeba",Ethiopia
+393,"PHILIP CAUSEY",PHILIP.CAUSEY@sains_dvd_rentalcustomer.org,737229003916,1,Moskova,8816,Korolev,"Russian Federation"
+394,"CHRIS BROTHERS",CHRIS.BROTHERS@sains_dvd_rentalcustomer.org,537374465982,1,Asturia,966,Gijn,Spain
+395,"JOHNNY TURPIN",JOHNNY.TURPIN@sains_dvd_rentalcustomer.org,765957414528,1,al-Qadarif,5239,al-Qadarif,Sudan
+396,"EARL SHANKS",EARL.SHANKS@sains_dvd_rentalcustomer.org,679095087143,1,Saitama,73824,Iwatsuki,Japan
+397,"JIMMY SCHRADER",JIMMY.SCHRADER@sains_dvd_rentalcustomer.org,604177838256,1,Krasnojarsk,46043,Atinsk,"Russian Federation"
+398,"ANTONIO MEEK",ANTONIO.MEEK@sains_dvd_rentalcustomer.org,841876514789,1,"Rio Grande do Sul",10417,Bag,Brazil
+399,"DANNY ISOM",DANNY.ISOM@sains_dvd_rentalcustomer.org,280578750435,1,Punjab,30586,Okara,Pakistan
+400,"BRYAN HARDISON",BRYAN.HARDISON@sains_dvd_rentalcustomer.org,775235029633,1,Texas,11067,Dallas,"United States"
+401,"TONY CARRANZA",TONY.CARRANZA@sains_dvd_rentalcustomer.org,794553031307,1,Fukushima,13496,Koriyama,Japan
+402,"LUIS YANEZ",LUIS.YANEZ@sains_dvd_rentalcustomer.org,516647474029,1,Bretagne,61507,Brest,France
+403,"MIKE WAY",MIKE.WAY@sains_dvd_rentalcustomer.org,206169448769,1,"Tamil Nadu",79940,Valparai,India
+404,"STANLEY SCROGGINS",STANLEY.SCROGGINS@sains_dvd_rentalcustomer.org,1483365694,1,Saitama,7664,Omiya,Japan
+405,"LEONARD SCHOFIELD",LEONARD.SCHOFIELD@sains_dvd_rentalcustomer.org,779461480495,1,"Buenos Aires",86868,Tandil,Argentina
+406,"NATHAN RUNYON",NATHAN.RUNYON@sains_dvd_rentalcustomer.org,302526949177,0,"St Thomas",54749,"Charlotte Amalie","Virgin Islands, U.S."
+407,"DALE RATCLIFF",DALE.RATCLIFF@sains_dvd_rentalcustomer.org,328494873422,1,"North West",9827,Rustenburg,"South Africa"
+408,"MANUEL MURRELL",MANUEL.MURRELL@sains_dvd_rentalcustomer.org,359478883004,1,Northern,35575,Jaffna,"Sri Lanka"
+409,"RODNEY MOELLER",RODNEY.MOELLER@sains_dvd_rentalcustomer.org,653436985797,1,"Bauchi & Gombe",7122,"Deba Habe",Nigeria
+410,"CURTIS IRBY",CURTIS.IRBY@sains_dvd_rentalcustomer.org,615964523510,1,Ontario,65630,"Richmond Hill",Canada
+411,"NORMAN CURRIER",NORMAN.CURRIER@sains_dvd_rentalcustomer.org,598912394463,1,"West Java",70809,Cianjur,Indonesia
+412,"ALLEN BUTTERFIELD",ALLEN.BUTTERFIELD@sains_dvd_rentalcustomer.org,129953030512,1,Punjab,40509,Hoshiarpur,India
+413,"MARVIN YEE",MARVIN.YEE@sains_dvd_rentalcustomer.org,480039662421,1,"West Bengali",58888,"Berhampore (Baharampur)",India
+414,"VINCENT RALSTON",VINCENT.RALSTON@sains_dvd_rentalcustomer.org,680851640676,1,Guanajuato,55566,Allende,Mexico
+415,"GLENN PULLEN",GLENN.PULLEN@sains_dvd_rentalcustomer.org,855290087237,1,Utrecht,33711,Amersfoort,Netherlands
+416,"JEFFERY PINSON",JEFFERY.PINSON@sains_dvd_rentalcustomer.org,15273765306,1,Sind,94018,Dadu,Pakistan
+417,"TRAVIS ESTEP",TRAVIS.ESTEP@sains_dvd_rentalcustomer.org,214976066017,1,al-Sharqiya,72410,al-Qatif,"Saudi Arabia"
+418,"JEFF EAST",JEFF.EAST@sains_dvd_rentalcustomer.org,491271355190,1,"Puerto Plata",59489,"San Felipe de Puerto Plata","Dominican Republic"
+419,"CHAD CARBONE",CHAD.CARBONE@sains_dvd_rentalcustomer.org,987306329957,1,Bihar,60622,Katihar,India
+420,"JACOB LANCE",JACOB.LANCE@sains_dvd_rentalcustomer.org,546793516940,1,California,89420,"El Monte","United States"
+421,"LEE HAWKS",LEE.HAWKS@sains_dvd_rentalcustomer.org,270456873752,1,"Tamil Nadu",14400,Pudukkottai,India
+422,"MELVIN ELLINGTON",MELVIN.ELLINGTON@sains_dvd_rentalcustomer.org,368284120423,1,Hubei,46875,Laohekou,China
+423,"ALFRED CASILLAS",ALFRED.CASILLAS@sains_dvd_rentalcustomer.org,129673677866,1,Sawhaj,78813,Sawhaj,Egypt
+424,"KYLE SPURLOCK",KYLE.SPURLOCK@sains_dvd_rentalcustomer.org,736517327853,1,Guangdong,47394,Shanwei,China
+425,"FRANCIS SIKES",FRANCIS.SIKES@sains_dvd_rentalcustomer.org,548003849552,1,Oaxaca,81758,"San Juan Bautista Tuxtepec",Mexico
+426,"BRADLEY MOTLEY",BRADLEY.MOTLEY@sains_dvd_rentalcustomer.org,157133457169,1,Jharkhand,70425,"Purnea (Purnia)",India
+427,"JESUS MCCARTNEY",JESUS.MCCARTNEY@sains_dvd_rentalcustomer.org,419009857119,1,"So Paulo",64964,Guaruj,Brazil
+428,"HERBERT KRUGER",HERBERT.KRUGER@sains_dvd_rentalcustomer.org,307133768620,1,Komi,33191,Syktyvkar,"Russian Federation"
+429,"FREDERICK ISBELL",FREDERICK.ISBELL@sains_dvd_rentalcustomer.org,572068624538,1,Okayama,87212,Tsuyama,Japan
+430,"RAY HOULE",RAY.HOULE@sains_dvd_rentalcustomer.org,497288595103,1,"Nizni Novgorod",33505,Dzerzinsk,"Russian Federation"
+431,"JOEL FRANCISCO",JOEL.FRANCISCO@sains_dvd_rentalcustomer.org,82619513349,1,Chuquisaca,72736,Sucre,Bolivia
+432,"EDWIN BURK",EDWIN.BURK@sains_dvd_rentalcustomer.org,617567598243,1,KwaZulu-Natal,63104,Newcastle,"South Africa"
+433,"DON BONE",DON.BONE@sains_dvd_rentalcustomer.org,342709348083,1,Nampula,65892,Naala-Porto,Mozambique
+434,"EDDIE TOMLIN",EDDIE.TOMLIN@sains_dvd_rentalcustomer.org,959834530529,1,"Northern Mindanao",41775,Ozamis,Philippines
+435,"RICKY SHELBY",RICKY.SHELBY@sains_dvd_rentalcustomer.org,746251338300,1,Shandong,90920,Junan,China
+436,"TROY QUIGLEY",TROY.QUIGLEY@sains_dvd_rentalcustomer.org,145720452260,1,"British Colombia",47472,Vancouver,Canada
+437,"RANDALL NEUMANN",RANDALL.NEUMANN@sains_dvd_rentalcustomer.org,331888642162,1,"La Romana",40926,"La Romana","Dominican Republic"
+438,"BARRY LOVELACE",BARRY.LOVELACE@sains_dvd_rentalcustomer.org,689681677428,1,Copperbelt,55405,Kitwe,Zambia
+439,"ALEXANDER FENNELL",ALEXANDER.FENNELL@sains_dvd_rentalcustomer.org,575081026569,1,Lombardia,57833,Bergamo,Italy
+440,"BERNARD COLBY",BERNARD.COLBY@sains_dvd_rentalcustomer.org,82088937724,1,Maharashtra,3,"Dhule (Dhulia)",India
+441,"MARIO CHEATHAM",MARIO.CHEATHAM@sains_dvd_rentalcustomer.org,406784385440,1,Batna,52625,Batna,Algeria
+442,"LEROY BUSTAMANTE",LEROY.BUSTAMANTE@sains_dvd_rentalcustomer.org,240776414296,1,"Inner Mongolia",48570,Tongliao,China
+443,"FRANCISCO SKIDMORE",FRANCISCO.SKIDMORE@sains_dvd_rentalcustomer.org,876491807547,1,"Rio Grande do Sul",29444,"So Leopoldo",Brazil
+444,"MARCUS HIDALGO",MARCUS.HIDALGO@sains_dvd_rentalcustomer.org,237368926031,1,Tartumaa,88306,Tartu,Estonia
+445,"MICHEAL FORMAN",MICHEAL.FORMAN@sains_dvd_rentalcustomer.org,411549550611,1,"Buenos Aires",73942,Escobar,Argentina
+446,"THEODORE CULP",THEODORE.CULP@sains_dvd_rentalcustomer.org,39463554936,0,"West Bengali",2834,Uluberia,India
+447,"CLIFFORD BOWENS",CLIFFORD.BOWENS@sains_dvd_rentalcustomer.org,782900030287,1,Tatarstan,52671,"Nabereznyje Telny","Russian Federation"
+448,"MIGUEL BETANCOURT",MIGUEL.BETANCOURT@sains_dvd_rentalcustomer.org,72524459905,1,Baijeri,99552,Erlangen,Germany
+449,"OSCAR AQUINO",OSCAR.AQUINO@sains_dvd_rentalcustomer.org,474047727727,1,Kerman,21872,Sirjan,Iran
+450,"JAY ROBB",JAY.ROBB@sains_dvd_rentalcustomer.org,834061016202,1,"Central Java",23636,Surakarta,Indonesia
+451,"JIM REA",JIM.REA@sains_dvd_rentalcustomer.org,524567129902,1,Sinaloa,48745,"El Fuerte",Mexico
+452,"TOM MILNER",TOM.MILNER@sains_dvd_rentalcustomer.org,985109775584,1,"Abu Dhabi",41136,"Abu Dhabi","United Arab Emirates"
+453,"CALVIN MARTEL",CALVIN.MARTEL@sains_dvd_rentalcustomer.org,974433019532,1,Zulia,16790,Maracabo,Venezuela
+454,"ALEX GRESHAM",ALEX.GRESHAM@sains_dvd_rentalcustomer.org,118011831565,1,"Michoacn de Ocampo",16119,Uruapan,Mexico
+455,"JON WILES",JON.WILES@sains_dvd_rentalcustomer.org,205524798287,1,"La Paz",28587,"El Alto",Bolivia
+456,"RONNIE RICKETTS",RONNIE.RICKETTS@sains_dvd_rentalcustomer.org,670370974122,1,Ziguinchor,75559,Ziguinchor,Senegal
+457,"BILL GAVIN",BILL.GAVIN@sains_dvd_rentalcustomer.org,924663855568,1,Illinois,83183,Rockford,"United States"
+458,"LLOYD DOWD",LLOYD.DOWD@sains_dvd_rentalcustomer.org,335052544020,1,"Central Java",64709,Tegal,Indonesia
+459,"TOMMY COLLAZO",TOMMY.COLLAZO@sains_dvd_rentalcustomer.org,762361821578,1,Esfahan,23343,Qomsheh,Iran
+460,"LEON BOSTIC",LEON.BOSTIC@sains_dvd_rentalcustomer.org,366776723320,1,Caquet,70664,Florencia,Colombia
+461,"DEREK BLAKELY",DEREK.BLAKELY@sains_dvd_rentalcustomer.org,325526730021,1,"Northern Mindanao",10447,Gingoog,Philippines
+462,"WARREN SHERROD",WARREN.SHERROD@sains_dvd_rentalcustomer.org,209342540247,1,Irkutsk,22173,Usolje-Sibirskoje,"Russian Federation"
+463,"DARRELL POWER",DARRELL.POWER@sains_dvd_rentalcustomer.org,164414772677,1,"Nova Scotia",84461,Halifax,Canada
+464,"JEROME KENYON",JEROME.KENYON@sains_dvd_rentalcustomer.org,928809465153,1,OHiggins,7939,Rancagua,Chile
+465,"FLOYD GANDY",FLOYD.GANDY@sains_dvd_rentalcustomer.org,49084281333,1,Jalisco,88502,Zapopan,Mexico
+466,"LEO EBERT",LEO.EBERT@sains_dvd_rentalcustomer.org,268053970382,1,Shandong,95400,Dongying,China
+467,"ALVIN DELOACH",ALVIN.DELOACH@sains_dvd_rentalcustomer.org,769370126331,1,Chihuahua,41545,Cuauhtmoc,Mexico
+468,"TIM CARY",TIM.CARY@sains_dvd_rentalcustomer.org,195337700615,1,Karnataka,33599,Bijapur,India
+469,"WESLEY BULL",WESLEY.BULL@sains_dvd_rentalcustomer.org,622884741180,1,Galicia,95835,"Ourense (Orense)",Spain
+470,"GORDON ALLARD",GORDON.ALLARD@sains_dvd_rentalcustomer.org,562370137426,1,Hodeida,14122,Hodeida,Yemen
+471,"DEAN SAUER",DEAN.SAUER@sains_dvd_rentalcustomer.org,248446668735,1,Gauteng,9668,Johannesburg,"South Africa"
+472,"GREG ROBINS",GREG.ROBINS@sains_dvd_rentalcustomer.org,206060652238,1,"Nam Ha",66546,"Nam Dinh",Vietnam
+473,"JORGE OLIVARES",JORGE.OLIVARES@sains_dvd_rentalcustomer.org,932992626595,1,Aceh,69221,Lhokseumawe,Indonesia
+474,"DUSTIN GILLETTE",DUSTIN.GILLETTE@sains_dvd_rentalcustomer.org,131912793873,1,Drenthe,42123,Emmen,Netherlands
+475,"PEDRO CHESTNUT",PEDRO.CHESTNUT@sains_dvd_rentalcustomer.org,726875628268,1,Sumy,11363,ostka,Ukraine
+476,"DERRICK BOURQUE",DERRICK.BOURQUE@sains_dvd_rentalcustomer.org,856872225376,1,Qubec,20336,Gatineau,Canada
+477,"DAN PAINE",DAN.PAINE@sains_dvd_rentalcustomer.org,553452430707,1,England,41060,Stockport,"United Kingdom"
+478,"LEWIS LYMAN",LEWIS.LYMAN@sains_dvd_rentalcustomer.org,667648979883,1,"Ha Darom",73085,Ashqelon,Israel
+479,"ZACHARY HITE",ZACHARY.HITE@sains_dvd_rentalcustomer.org,191958435142,1,Ohio,88749,Akron,"United States"
+480,"COREY HAUSER",COREY.HAUSER@sains_dvd_rentalcustomer.org,435118527255,1,Gaziantep,28165,Gaziantep,Turkey
+481,"HERMAN DEVORE",HERMAN.DEVORE@sains_dvd_rentalcustomer.org,510383179153,1,Mwanza,25145,Mwanza,Tanzania
+482,"MAURICE CRAWLEY",MAURICE.CRAWLEY@sains_dvd_rentalcustomer.org,684529463244,0,Veracruz,71182,Coatzacoalcos,Mexico
+483,"VERNON CHAPA",VERNON.CHAPA@sains_dvd_rentalcustomer.org,975185523021,1,Denizli,2596,Denizli,Turkey
+484,"ROBERTO VU",ROBERTO.VU@sains_dvd_rentalcustomer.org,508348602835,1,Ningxia,11839,Yinchuan,China
+485,"CLYDE TOBIAS",CLYDE.TOBIAS@sains_dvd_rentalcustomer.org,702955450528,1,Guangdong,88513,Shaoguan,China
+486,"GLEN TALBERT",GLEN.TALBERT@sains_dvd_rentalcustomer.org,936806643983,1,"Coahuila de Zaragoza",8268,Acua,Mexico
+487,"HECTOR POINDEXTER",HECTOR.POINDEXTER@sains_dvd_rentalcustomer.org,589377568313,1,Stavropol,23661,Pjatigorsk,"Russian Federation"
+488,"SHANE MILLARD",SHANE.MILLARD@sains_dvd_rentalcustomer.org,488425406814,1,"Baja California Sur",94239,"La Paz",Mexico
+489,"RICARDO MEADOR",RICARDO.MEADOR@sains_dvd_rentalcustomer.org,37247325001,1,Okayama,46400,Okayama,Japan
+490,"SAM MCDUFFIE",SAM.MCDUFFIE@sains_dvd_rentalcustomer.org,17305839123,1,Boyac,19489,Sogamoso,Colombia
+491,"RICK MATTOX",RICK.MATTOX@sains_dvd_rentalcustomer.org,171973024401,1,al-Daqahliya,22358,"Mit Ghamr",Egypt
+492,"LESTER KRAUS",LESTER.KRAUS@sains_dvd_rentalcustomer.org,158399646978,1,"West Bengali",96203,Kanchrapara,India
+493,"BRENT HARKINS",BRENT.HARKINS@sains_dvd_rentalcustomer.org,854259976812,1,Istanbul,26101,Sultanbeyli,Turkey
+494,"RAMON CHOATE",RAMON.CHOATE@sains_dvd_rentalcustomer.org,898559280434,1,Chimborazo,63667,Robamba,Ecuador
+495,"CHARLIE BESS",CHARLIE.BESS@sains_dvd_rentalcustomer.org,962020153680,1,Gansu,98030,Baiyin,China
+496,"TYLER WREN",TYLER.WREN@sains_dvd_rentalcustomer.org,211256301880,1,Shandong,72349,Rizhao,China
+497,"GILBERT SLEDGE",GILBERT.SLEDGE@sains_dvd_rentalcustomer.org,959467760895,1,England,57197,York,"United Kingdom"
+498,"GENE SANBORN",GENE.SANBORN@sains_dvd_rentalcustomer.org,144206758053,1,Zufar,50592,Salala,Oman
+499,"MARC OUTLAW",MARC.OUTLAW@sains_dvd_rentalcustomer.org,465897838272,1,Apulia,86208,Brindisi,Italy
+500,"REGINALD KINDER",REGINALD.KINDER@sains_dvd_rentalcustomer.org,793996678771,1,"East Java",69504,Madiun,Indonesia
+501,"RUBEN GEARY",RUBEN.GEARY@sains_dvd_rentalcustomer.org,52709222667,1,Lubelskie,16370,Lublin,Poland
+502,"BRETT CORNWELL",BRETT.CORNWELL@sains_dvd_rentalcustomer.org,868602816371,1,"West Bengali",87687,"Siliguri (Shiliguri)",India
+503,"ANGEL BARCLAY",ANGEL.BARCLAY@sains_dvd_rentalcustomer.org,759586584889,1,Nagano,90797,Ueda,Japan
+504,"NATHANIEL ADAM",NATHANIEL.ADAM@sains_dvd_rentalcustomer.org,111177206479,1,Illinois,37469,Joliet,"United States"
+505,"RAFAEL ABNEY",RAFAEL.ABNEY@sains_dvd_rentalcustomer.org,82671830126,1,"Central Luzon",1570,Talavera,Philippines
+506,"LESLIE SEWARD",LESLIE.SEWARD@sains_dvd_rentalcustomer.org,131370665218,1,"Kalimantan Barat",44816,Pontianak,Indonesia
+507,"EDGAR RHOADS",EDGAR.RHOADS@sains_dvd_rentalcustomer.org,402630109080,1,Eskisehir,54674,Eskisehir,Turkey
+508,"MILTON HOWLAND",MILTON.HOWLAND@sains_dvd_rentalcustomer.org,441628280920,1,"Andhra Pradesh",75474,Vijayawada,India
+509,"RAUL FORTIER",RAUL.FORTIER@sains_dvd_rentalcustomer.org,442673923363,1,Bihar,51369,Chapra,India
+510,"BEN EASTER",BEN.EASTER@sains_dvd_rentalcustomer.org,711928348157,0,Volgograd,19450,Kamyin,"Russian Federation"
+511,"CHESTER BENNER",CHESTER.BENNER@sains_dvd_rentalcustomer.org,59634255214,1,Heilongjiang,39529,Suihua,China
+512,"CECIL VINES",CECIL.VINES@sains_dvd_rentalcustomer.org,879347453467,1,Ontario,35653,London,"United Kingdom"
+513,"DUANE TUBBS",DUANE.TUBBS@sains_dvd_rentalcustomer.org,282667506728,1,,65952,Yangor,Nauru
+514,"FRANKLIN TROUTMAN",FRANKLIN.TROUTMAN@sains_dvd_rentalcustomer.org,288910576761,1,Hubei,35156,Zaoyang,China
+515,"ANDRE RAPP",ANDRE.RAPP@sains_dvd_rentalcustomer.org,602101369463,1,Coquimbo,92568,Coquimbo,Chile
+516,"ELMER NOE",ELMER.NOE@sains_dvd_rentalcustomer.org,448876499197,1,Battambang,32347,Battambang,Cambodia
+517,"BRAD MCCURDY",BRAD.MCCURDY@sains_dvd_rentalcustomer.org,627425618482,1,Taipei,400,Chungho,Taiwan
+518,"GABRIEL HARDER",GABRIEL.HARDER@sains_dvd_rentalcustomer.org,158326114853,1,Sivas,49806,Sivas,Turkey
+519,"RON DELUCA",RON.DELUCA@sains_dvd_rentalcustomer.org,132100972047,1,Gumma,61244,Isesaki,Japan
+520,"MITCHELL WESTMORELAND",MITCHELL.WESTMORELAND@sains_dvd_rentalcustomer.org,574973479129,1,"Khanh Hoa",94707,"Nha Trang",Vietnam
+521,"ROLAND SOUTH",ROLAND.SOUTH@sains_dvd_rentalcustomer.org,25865528181,1,Liaoning,41214,Yingkou,China
+522,"ARNOLD HAVENS",ARNOLD.HAVENS@sains_dvd_rentalcustomer.org,236679267178,1,"Southern Tagalog",81651,"Santa Rosa",Philippines
+523,"HARVEY GUAJARDO",HARVEY.GUAJARDO@sains_dvd_rentalcustomer.org,638409958875,1,"Nghe An",18043,Vinh,Vietnam
+524,"JARED ELY",JARED.ELY@sains_dvd_rentalcustomer.org,35533115997,1,"West Java",25972,Purwakarta,Indonesia
+525,"ADRIAN CLARY",ADRIAN.CLARY@sains_dvd_rentalcustomer.org,182059202712,1,"Friuli-Venezia Giuli",95775,Udine,Italy
+526,"KARL SEAL",KARL.SEAL@sains_dvd_rentalcustomer.org,214756839122,1,Florida,31342,"Cape Coral","United States"
+527,"CORY MEEHAN",CORY.MEEHAN@sains_dvd_rentalcustomer.org,338244023543,1,Mogiljov,35364,Mogiljov,Belarus
+528,"CLAUDE HERZOG",CLAUDE.HERZOG@sains_dvd_rentalcustomer.org,105882218332,1,Benguela,35202,Benguela,Angola
+529,"ERIK GUILLEN",ERIK.GUILLEN@sains_dvd_rentalcustomer.org,80593242951,1,"Andhra Pradesh",40899,Bhimavaram,India
+530,"DARRYL ASHCRAFT",DARRYL.ASHCRAFT@sains_dvd_rentalcustomer.org,717566026669,1,"Buenos Aires",86760,Ezeiza,Argentina
+531,"JAMIE WAUGH",JAMIE.WAUGH@sains_dvd_rentalcustomer.org,427274926505,1,Mie,88408,Kuwana,Japan
+532,"NEIL RENNER",NEIL.RENNER@sains_dvd_rentalcustomer.org,478380208348,1,"Khanh Hoa",79401,"Cam Ranh",Vietnam
+533,"JESSIE MILAM",JESSIE.MILAM@sains_dvd_rentalcustomer.org,383353187467,1,Shandong,22813,Binzhou,China
+534,"CHRISTIAN JUNG",CHRISTIAN.JUNG@sains_dvd_rentalcustomer.org,122981120653,0,"Uttar Pradesh",67521,Amroha,India
+535,"JAVIER ELROD",JAVIER.ELROD@sains_dvd_rentalcustomer.org,8912935608,1,Chari-Baguirmi,49250,NDjamna,Chad
+536,"FERNANDO CHURCHILL",FERNANDO.CHURCHILL@sains_dvd_rentalcustomer.org,745267607502,1,Kang-won,9750,Tonghae,"South Korea"
+537,"CLINTON BUFORD",CLINTON.BUFORD@sains_dvd_rentalcustomer.org,484500282381,1,Colorado,79814,Aurora,"United States"
+538,"TED BREAUX",TED.BREAUX@sains_dvd_rentalcustomer.org,488600270038,1,Jilin,69953,Baicheng,China
+539,"MATHEW BOLIN",MATHEW.BOLIN@sains_dvd_rentalcustomer.org,754579047924,1,Carabobo,33030,Valencia,Venezuela
+540,"TYRONE ASHER",TYRONE.ASHER@sains_dvd_rentalcustomer.org,932156667696,1,Ruse,13629,Ruse,Bulgaria
+541,"DARREN WINDHAM",DARREN.WINDHAM@sains_dvd_rentalcustomer.org,921960450089,1,Toscana,74568,Livorno,Italy
+542,"LONNIE TIRADO",LONNIE.TIRADO@sains_dvd_rentalcustomer.org,784907335610,1,"Sumatera Selatan",51309,"Pangkal Pinang",Indonesia
+543,"LANCE PEMBERTON",LANCE.PEMBERTON@sains_dvd_rentalcustomer.org,786270036240,1,Tadla-Azilal,25866,Beni-Mellal,Morocco
+544,"CODY NOLEN",CODY.NOLEN@sains_dvd_rentalcustomer.org,169352919175,1,"So Paulo",55676,"So Bernardo do Campo",Brazil
+545,"JULIO NOLAND",JULIO.NOLAND@sains_dvd_rentalcustomer.org,426346224043,1,Sumy,15414,Konotop,Ukraine
+546,"KELLY KNOTT",KELLY.KNOTT@sains_dvd_rentalcustomer.org,357593328658,1,Hainan,5753,Sanya,China
+547,"KURT EMMONS",KURT.EMMONS@sains_dvd_rentalcustomer.org,135407755975,1,Ishikawa,19151,Kanazawa,Japan
+548,"ALLAN CORNISH",ALLAN.CORNISH@sains_dvd_rentalcustomer.org,50898428626,1,"Central Luzon",841,Tarlac,Philippines
+549,"NELSON CHRISTENSON",NELSON.CHRISTENSON@sains_dvd_rentalcustomer.org,84794532510,1,Galicia,77642,"Santiago de Compostela",Spain
+550,"GUY BROWNLEE",GUY.BROWNLEE@sains_dvd_rentalcustomer.org,978430786151,1,Zhejiang,39976,Zhoushan,China
+551,"CLAYTON BARBEE",CLAYTON.BARBEE@sains_dvd_rentalcustomer.org,380077794770,1,"Rio Grande do Sul",26284,Alvorada,Brazil
+552,"HUGH WALDROP",HUGH.WALDROP@sains_dvd_rentalcustomer.org,955349440539,1,Zhejiang,52234,Haining,China
+553,"MAX PITT",MAX.PITT@sains_dvd_rentalcustomer.org,698182547686,1,Vojvodina,11892,"Novi Sad",Yugoslavia
+554,"DWAYNE OLVERA",DWAYNE.OLVERA@sains_dvd_rentalcustomer.org,62127829280,1,Gujarat,12905,Rajkot,India
+555,"DWIGHT LOMBARDI",DWIGHT.LOMBARDI@sains_dvd_rentalcustomer.org,368738360376,1,KwaZulu-Natal,63022,Chatsworth,"South Africa"
+556,"ARMANDO GRUBER",ARMANDO.GRUBER@sains_dvd_rentalcustomer.org,590764256785,1,England,57380,Southport,"United Kingdom"
+557,"FELIX GAFFNEY",FELIX.GAFFNEY@sains_dvd_rentalcustomer.org,107092893983,1,Vilna,47498,Vilnius,Lithuania
+558,"JIMMIE EGGLESTON",JIMMIE.EGGLESTON@sains_dvd_rentalcustomer.org,970638808606,0,Dolnoslaskie,97271,Wroclaw,Poland
+559,"EVERETT BANDA",EVERETT.BANDA@sains_dvd_rentalcustomer.org,855066328617,1,al-Sharqiya,22372,Bilbays,Egypt
+560,"JORDAN ARCHULETA",JORDAN.ARCHULETA@sains_dvd_rentalcustomer.org,817740355461,1,"Buenos Aires",40195,Avellaneda,Argentina
+561,"IAN STILL",IAN.STILL@sains_dvd_rentalcustomer.org,239357986667,1,Texas,77464,Garland,"United States"
+562,"WALLACE SLONE",WALLACE.SLONE@sains_dvd_rentalcustomer.org,946114054231,1,"Sokoto & Kebbi & Zam",93655,Sokoto,Nigeria
+563,"KEN PREWITT",KEN.PREWITT@sains_dvd_rentalcustomer.org,997453607116,1,Bukarest,10714,Bucuresti,Romania
+564,"BOB PFEIFFER",BOB.PFEIFFER@sains_dvd_rentalcustomer.org,203202500108,1,Shandong,44274,Xintai,China
+565,"JAIME NETTLES",JAIME.NETTLES@sains_dvd_rentalcustomer.org,863080561151,1,Huanuco,32515,Hunuco,Peru
+566,"CASEY MENA",CASEY.MENA@sains_dvd_rentalcustomer.org,525518075499,1,Tokat,52196,Tokat,Turkey
+567,"ALFREDO MCADAMS",ALFREDO.MCADAMS@sains_dvd_rentalcustomer.org,324346485054,1,Moskova,33224,Serpuhov,"Russian Federation"
+568,"ALBERTO HENNING",ALBERTO.HENNING@sains_dvd_rentalcustomer.org,618156722572,1,Anzotegui,15992,Barcelona,Venezuela
+569,"DAVE GARDINER",DAVE.GARDINER@sains_dvd_rentalcustomer.org,128499386727,1,Sichuan,77397,Leshan,China
+570,"IVAN CROMWELL",IVAN.CROMWELL@sains_dvd_rentalcustomer.org,203804046132,1,"Coahuila de Zaragoza",37815,Monclova,Mexico
+571,"JOHNNIE CHISHOLM",JOHNNIE.CHISHOLM@sains_dvd_rentalcustomer.org,770864062795,1,Mazowieckie,943,Plock,Poland
+572,"SIDNEY BURLESON",SIDNEY.BURLESON@sains_dvd_rentalcustomer.org,867287719310,1,Slaskie,86587,Czestochowa,Poland
+573,"BYRON BOX",BYRON.BOX@sains_dvd_rentalcustomer.org,844018348565,1,Qaraghandy,95093,Zhezqazghan,Kazakstan
+574,"JULIAN VEST",JULIAN.VEST@sains_dvd_rentalcustomer.org,315528269898,1,Tokyo-to,33384,Akishima,Japan
+575,"ISAAC OGLESBY",ISAAC.OGLESBY@sains_dvd_rentalcustomer.org,14465669789,1,Morelos,89422,Cuernavaca,Mexico
+576,"MORRIS MCCARTER",MORRIS.MCCARTER@sains_dvd_rentalcustomer.org,278669994384,1,Kaohsiung,34750,Fengshan,Taiwan
+577,"CLIFTON MALCOLM",CLIFTON.MALCOLM@sains_dvd_rentalcustomer.org,29341849811,1,Taipei,98883,Tanshui,Taiwan
+578,"WILLARD LUMPKIN",WILLARD.LUMPKIN@sains_dvd_rentalcustomer.org,377633994405,1,Campeche,53829,Carmen,Mexico
+579,"DARYL LARUE",DARYL.LARUE@sains_dvd_rentalcustomer.org,954786054144,1,Ninawa,73605,Mosul,Iraq
+580,"ROSS GREY",ROSS.GREY@sains_dvd_rentalcustomer.org,165164761435,1,"Central Mindanao",96115,Iligan,Philippines
+581,"VIRGIL WOFFORD",VIRGIL.WOFFORD@sains_dvd_rentalcustomer.org,294449058179,1,Guerrero,64682,"Jos Azueta",Mexico
+582,"ANDY VANHORN",ANDY.VANHORN@sains_dvd_rentalcustomer.org,995527378381,1,Hidalgo,62703,"Huejutla de Reyes",Mexico
+583,"MARSHALL THORN",MARSHALL.THORN@sains_dvd_rentalcustomer.org,285710089439,1,England,22954,Southampton,"United Kingdom"
+584,"SALVADOR TEEL",SALVADOR.TEEL@sains_dvd_rentalcustomer.org,170115379190,1,Banjul,53446,Banjul,Gambia
+585,"PERRY SWAFFORD",PERRY.SWAFFORD@sains_dvd_rentalcustomer.org,914466027044,1,"Buenos Aires",12664,Quilmes,Argentina
+586,"KIRK STCLAIR",KIRK.STCLAIR@sains_dvd_rentalcustomer.org,182178609211,1,Nantou,95179,Tsaotun,Taiwan
+587,"SERGIO STANFIELD",SERGIO.STANFIELD@sains_dvd_rentalcustomer.org,387448063440,1,Guanajuato,71102,Celaya,Mexico
+588,"MARION OCAMPO",MARION.OCAMPO@sains_dvd_rentalcustomer.org,338758048786,1,Shandong,17381,Weifang,China
+589,"TRACY HERRMANN",TRACY.HERRMANN@sains_dvd_rentalcustomer.org,154124128457,1,Loja,22474,Loja,Ecuador
+590,"SETH HANNON",SETH.HANNON@sains_dvd_rentalcustomer.org,864392582257,1,al-Manama,39414,al-Manama,Bahrain
+591,"KENT ARSENAULT",KENT.ARSENAULT@sains_dvd_rentalcustomer.org,410877354933,1,"Minas Gerais",1944,"Juiz de Fora",Brazil
+592,"TERRANCE ROUSH",TERRANCE.ROUSH@sains_dvd_rentalcustomer.org,437829801725,0,Fejr,14684,Szkesfehrvr,Hungary
+593,"RENE MCALISTER",RENE.MCALISTER@sains_dvd_rentalcustomer.org,137809746111,1,California,36693,"Garden Grove","United States"
+594,"EDUARDO HIATT",EDUARDO.HIATT@sains_dvd_rentalcustomer.org,640843562301,1,"Inner Mongolia",82580,Jining,China
+595,"TERRENCE GUNDERSON",TERRENCE.GUNDERSON@sains_dvd_rentalcustomer.org,935952366111,1,Liaoning,36603,Jinzhou,China
+596,"ENRIQUE FORSYTHE",ENRIQUE.FORSYTHE@sains_dvd_rentalcustomer.org,199514580428,1,"West Greece",97661,Patras,Greece
+597,"FREDDIE DUGGAN",FREDDIE.DUGGAN@sains_dvd_rentalcustomer.org,644021380889,1,Piura,52137,Sullana,Peru
+598,"WADE DELVALLE",WADE.DELVALLE@sains_dvd_rentalcustomer.org,145308717464,1,Vaud,61960,Lausanne,Switzerland
+599,"AUSTIN CINTRON",AUSTIN.CINTRON@sains_dvd_rentalcustomer.org,288241215394,1,Heilongjiang,27107,Tieli,China

@@ -1,0 +1,3 @@
+staff_id,staff_name,staff_email,staff_phone,staff_active,staff_district,staff_postcode,staff_city,staff_country
+1,"Mike Hillyer",Mike.Hillyer@sains_dvd_rentalstaff.com,14033335568,1,Alberta,,Lethbridge,Canada
+2,"Jon Stephens",Jon.Stephens@sains_dvd_rentalstaff.com,6172235589,1,QLD,,Woodridge,Australia
